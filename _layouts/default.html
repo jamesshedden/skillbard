@@ -14,7 +14,7 @@
               <div class="main__details{% if page.title and page.layout != 'category' %} main__details--page{% endif %}">
                 <div class="logo">
                   <img class="logo__image"
-                  src="/skillbard/images/logo.png">
+                  src="{{ site.url }}/images/logo.png">
                 </div>
 
                 <p class="main__text">
@@ -31,7 +31,7 @@
     </div>
 
     {% if site.safe == 'true' %}
-      <script src="/skillbard/assets/main.js"></script>
+      <script src="{{ site.url }}/assets/main.js"></script>
     {% else %}
       {% javascript main %}
     {% endif %}
