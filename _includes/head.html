@@ -9,7 +9,8 @@
   {% if site.safe == 'true' %}
     <link rel="stylesheet" href="{{ site.url }}/assets/main.css">
   {% else %}
-    {% stylesheet main %}
+  <link rel="stylesheet" href="{{ site.url }}/assets/stylesheets/main.css">
+
   {% endif %}
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
