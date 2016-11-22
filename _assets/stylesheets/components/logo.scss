@@ -42,31 +42,3 @@
 .logo:hover {
   animation: tada 1s forwards;
 }
-
-@media (max-width: 1200px) {
-  .logo,
-  .logo--post {
-    width: 130px;
-    height: 115px;
-    display: inline-block;
-    position: relative;
-    top: auto;
-    left: auto;
-  }
-
-  .logo--post {
-    margin-bottom: 50px;
-  }
-}
-
-@media (max-width: 610px) {
-  .logo,
-  .logo--post {
-    width: 100px;
-    height: 88px;
-    display: inline-block;
-    position: relative;
-    top: auto;
-    left: auto;
-  }
-}
