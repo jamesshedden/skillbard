@@ -98,9 +98,13 @@
 
           <div class="content"
           id="content">
-            {% if page.layout == 'default' %}
+            {% if page.layout != 'default' %}
+              {% if page.paginator %}
+                {% assign paginator = page.paginator %}
+              {% endif %}
+
               {% if paginator.previous_page_path %}
-                <a href="{{ paginator.previous_page_path }}"
+                <a href="/category/{{ page.title }}{{ paginator.previous_page_path }}"
                 class="tile">
                   <div class="tile__wrapper">
                     <img src="/images/placeholder.gif">
@@ -118,7 +122,7 @@
               {% endfor %}
 
               {% if paginator.next_page_path %}
-                <a href="{{ paginator.next_page_path }}"
+                <a href="/category/{{ page.title }}{{ paginator.next_page_path }}"
                 class="tile">
                   <div class="tile__wrapper">
                     <img src="/images/placeholder.gif">

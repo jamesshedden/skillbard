@@ -6,3 +6,4 @@ gem "autoprefixer-rails"
 gem "uglifier"
 gem "jekyll-admin", group: :jekyll_plugins
 gem "jekyll-paginate"
+gem "jekyll-paginate-category"
