@@ -24,14 +24,29 @@
   width: 180px;
   height: 160px;
   display: inline-block;
+  transform: translateX(0);
+  transition: 0.2s transform $animation-curve;
+}
+
+.logo.is-open {
+  transform: translateX(-200%);
 }
 
 .logo--post {
   width: 100px;
   height: 88px;
   position: absolute;
-  top: 35px;
-  left: 35px;
+  top: 55px;
+  left: 55px;
+}
+
+.logo--fixed {
+  position: fixed;
+  z-index: 2;
+}
+
+.logo--static {
+  display: none;
 }
 
 .logo__image {
@@ -41,4 +56,48 @@
 
 .logo:hover {
   animation: tada 1s forwards;
+}
+
+@media (max-width: 1200px) {
+  .logo,
+  .logo--post {
+    width: 130px;
+    height: 115px;
+    display: inline-block;
+    position: relative;
+    top: auto;
+    left: auto;
+  }
+
+  .logo--fixed {
+    display: none;
+  }
+
+  .logo--static {
+    display: inline-block;
+  }
+
+  .logo--post {
+    margin-bottom: 50px;
+  }
+}
+
+@media (max-width: 610px) {
+  .logo,
+  .logo--post {
+    width: 100px;
+    height: 88px;
+    display: inline-block;
+    position: relative;
+    top: auto;
+    left: auto;
+  }
+
+  .logo--fixed {
+    display: none;
+  }
+
+  .logo--static {
+    display: inline-block;
+  }
 }

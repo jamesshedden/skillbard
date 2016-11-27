@@ -3,9 +3,19 @@
 }
 
 .post-container__content {
-  width: 600px;
+  width: 800px;
   line-height: 1.5;
   text-align: left;
+}
+
+.post-container__content a,
+.post-container__content a:visited {
+  color: $blue;
+}
+
+.post-container__content a:hover,
+.post-container__content a:active {
+  color: $green;
 }
 
 .post-container__info {

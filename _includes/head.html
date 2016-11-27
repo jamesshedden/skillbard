@@ -3,8 +3,28 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="icon" type="image/jpg" href="/images/favicon.jpg">
+
+  <title>
+    {{ site.title | escape }}{% if page.title %} — {{ page.title | escape }}{% endif %}
+  </title>
+
+  <!-- Google -->
+	<meta name="description" content="Skillbard creates memorable bespoke music & sound for animation, ads, games... you name it">
+	<meta name="keywords" content="Oswald, Skillbard, composition, music, bespoke, sound design, sound, animation, jingle, library, mix, adr, london, studio, recording, audio, sonic branding, surround, 5.1, dubbing, film, tv, games, soundtrack, OST, original music, mastering" />
+
+	<!-- Facebook -->
+	<meta property="og:title" content="Skillbard" />
+	<meta property="og:url" content="http://www.skillbard.com" />
+	<meta property="og:description" content="Skillbard creates memorable bespoke music & sound for animation, ads, games... you name it" />
+	<meta property="og:image" content="http://skillbard.com/images/og_full.jpg"/>
+	<meta property="og:image" content="http://skillbard.com/images/og_square.jpg"/>
+
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="SKillbard" />
+	<meta name="twitter:description" content="Skillbard creates memorable bespoke music & sound for animation, ads, games... you name it" />
+	<meta name="twitter:image" content="http://skillbard.com/images/og_full.jpg" />
 
   {% if site.safe == 'true' %}
     <link rel="stylesheet" href="{{ site.url }}/assets/main.css">

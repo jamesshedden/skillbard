@@ -1,0 +1,13 @@
+---
+title: It's Fine
+layout: post
+client: Rachel Tan
+date: '2016-10-26 20:51:25 +0100'
+thumbnail: /images/thumbnails/its-fine.png
+category: [music, sound]
+embed: https://player.vimeo.com/video/159485022
+---
+
+Music and sound for Rachel’s heartstring-tugging graduation film.
+
+[Rachel Tan](https://www.instagram.com/rachelnherpics/)

@@ -4,7 +4,7 @@ layout: default
 
 <div class="tile">
   <div class="tile__wrapper">
-    <img src="https://i.vimeocdn.com/video/570529759_295x166.jpg">
+    <img src="/images/placeholder.gif">
     <div class="tile__overlay tile__overlay--category">
       <div class="tile__overlay-text">
         {{ page.category | capitalize }}<br>
@@ -16,17 +16,5 @@ layout: default
 </div>
 
 {% for post in site.categories.[page.category] %}
-  <a class="tile"
-  href="{{ post.url }}">
-    <div class="tile__wrapper">
-      <img src="{{ post.thumbnail }}">
-      <div class="tile__overlay">
-        <div class="tile__overlay-text">
-          {{ post.title }}<br>
-          <span class="tile__divider">—</span><br>
-          {{ post.client }}
-        </div>
-      </div>
-    </div>
-  </a>
+  {% include tile.html %}
 {% endfor %}

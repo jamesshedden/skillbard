@@ -11,7 +11,7 @@ require "tmpdir"
 require "bundler/setup"
 require "jekyll"
 
-GITHUB_REPONAME = "jamesshedden/skillbard"
+GITHUB_REPONAME = "jamesshedden/skillbard-jekyll"
 
 namespace :site do
   desc "Generate blog files"
