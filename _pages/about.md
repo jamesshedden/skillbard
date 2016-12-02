@@ -12,7 +12,7 @@ We integrate a host of music making and sound bending skills to work seamlessly 
 
 Animation is our favourite.
 
-Focusing on the weird and whacky end of the musical spectrum, each new task is approached with an open, creative mind and a desire to challenge ourselves to do something fresh. Memorable music with pizzazz (ugh gross), stand-out sounds with character.
+Focusing on the weird and whacky end of the musical spectrum, each new task is approached with an open, creative mind and a desire to challenge ourselves to do something fresh. Memorable music with pizzazz, stand-out sounds with character.
 
 On top of our years of composition and sound design for media, between us we offer a diverse background of professional and personal experiences in writing, producing, performing and releasing in our respective pop acts as well as directing music videos, TV brand spots and touring the world performing visuals to accompany live music. This is how we’ve developed such an intuition when it comes to how image and sound interact.
 
