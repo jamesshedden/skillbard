@@ -14,4 +14,5 @@ Raps by [Cion Daddy](https://soundcloud.com/ciondaddy)
 
 [hyper-reality.co](hyper-reality.co) for more information.
 [Keiichi Matsuda](http://km.cx/)
-<iframe style="border: 0; width: 700px; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=563114535/size=large/bgcol=ffffff/linkcol=333333/artwork=none/transparent=true/" seamless="">[Hyper Reality OST by Skillbard](http://skillbard.bandcamp.com/album/hyper-reality-ost)</iframe>
+
+<div id="bc"><iframe style="border: 0; width: 400px; height: 803px;" src="https://bandcamp.com/EmbeddedPlayer/album=563114535/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://skillbard.bandcamp.com/album/hyper-reality-ost">Hyper Reality OST by Skillbard</a></iframe></div>

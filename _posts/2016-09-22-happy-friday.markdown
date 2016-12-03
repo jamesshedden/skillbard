@@ -1,7 +1,7 @@
 ---
 title: Happy Friday
 layout: post
-client: Faz Elektrik
+client: Mummu
 date: '2016-10-26 20:51:25 +0100'
 thumbnail: /images/thumbnails/HappyFriday.png
 category: [music, sound]

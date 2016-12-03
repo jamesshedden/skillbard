@@ -12,4 +12,4 @@ Music for modern sportswear label fashion film.
 
 <a href="http://www.akirafilms.com/">Akira Films</a>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=896716221/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=none/transparent=true/" seamless=""><a href="http://skillbard.bandcamp.com/track/n-tropy">N—tropy by Skillbard</a></iframe>
+<div id="bc"><iframe style="border: 0; width: 400px; height: 492px;" src="https://bandcamp.com/EmbeddedPlayer/track=896716221/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/" seamless><a href="http://skillbard.bandcamp.com/track/n-tropy">N—tropy by Skillbard</a></iframe></div>

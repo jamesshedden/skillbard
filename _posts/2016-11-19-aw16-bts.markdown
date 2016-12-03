@@ -10,4 +10,4 @@ embed: https://player.vimeo.com/video/181649592
 
 Music for a behind the scenes look at River Islands Autumn/Winter 2016 campaign.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2846745143/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=none/transparent=true/" seamless="">[Ribbits ༼ʘ̚ل͜ʘ̚༽ by Skillbard](http://skillbard.bandcamp.com/track/ribbits)</iframe>
+<div id="bc"><iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/track=2846745143/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" seamless><a href="http://skillbard.bandcamp.com/track/ribbits">Ribbits ༼ʘ̚ل͜ʘ̚༽ by Skillbard</a></iframe></div>

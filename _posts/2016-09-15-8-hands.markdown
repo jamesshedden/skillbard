@@ -9,6 +9,5 @@ embed: https://player.vimeo.com/video/24020901
 ---
 Alert sounds for 8 hands, a social network aggregator software.
 
-The sounds you hear are:
-
+The sounds you hear are:  
 Start-up, IM1, IM2, IM3, Friend online & New Event.

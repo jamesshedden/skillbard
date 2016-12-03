@@ -9,6 +9,5 @@ embed: https://player.vimeo.com/video/67385151
 ---
 Sound Design for this cuddly advert for One Fine Stay.
 
-Directed by Dan Britt.
-
+Directed by Dan Britt.  
 Illustrated by Maggie Li.

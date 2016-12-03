@@ -12,4 +12,5 @@ Music for short film documenting the Barbican Box Music project: a scheme design
 
 [Whalebone Films](www.whalebonefilms.com)
 [The Barbican Box](http://www.barbicanbox.org.uk/)
-<iframe style="border: 0; width: 700px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=1646845680/size=large/bgcol=ffffff/linkcol=333333/artwork=none/transparent=true/" seamless="">[Barbican Box 2 by Skillbard](http://skillbard.bandcamp.com/album/barbican-box-2)</iframe>
+
+<div id="bc"><iframe style="border: 0; width: 400px; height: 671px;" src="https://bandcamp.com/EmbeddedPlayer/album=1646845680/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://skillbard.bandcamp.com/album/barbican-box-2-ost">Barbican Box 2 OST by Skillbard</a></iframe></div>

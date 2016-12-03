@@ -14,4 +14,4 @@ Music and sound for this scientific explanation of death. Written by Nadja Oerte
 [Sophie Koko Gate](http://sophiekokogate.com/)<br/>
 [Vox](vox.com)
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1389995715/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=none/transparent=true/" seamless="">[Death by Skillbard](http://skillbard.bandcamp.com/track/death)</iframe>
+<div id="bc"><iframe style="border: 0; width: 400px; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/track=1389995715/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" seamless><a href="http://skillbard.bandcamp.com/track/death">Death by Skillbard</a></iframe></div>

@@ -12,6 +12,6 @@ Part one of an eight-part series on representations of perception and sensation 
 
 See the whole series [here](https://vimeo.com/channels/972301).
 
-Words by Walt Whitman
+Words by Walt Whitman  
 Animation by [Sophie Koko Gate](sophiekokogate.com)  
 Produced by [Nadja Oertelt](nadjaoertelt.com)

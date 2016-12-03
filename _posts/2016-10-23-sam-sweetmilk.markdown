@@ -12,4 +12,4 @@ Original score for a cartoon about a self-destructive astronaut and his robot da
 
 [Sam Sweetmilk On Youtube](https://www.youtube.com/user/SamSweetmilk)
 
-<iframe style="border: 0; width: 700px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=38754142/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless="">[Sam Sweetmilk Ep2: A New Ghostworth by Skillbard](http://skillbard.bandcamp.com/album/sam-sweetmilk-ep2-a-new-ghostworth)</iframe>
+<div id="bc"><iframe style="border: 0; width: 400px; height: 836px;" src="https://bandcamp.com/EmbeddedPlayer/album=38754142/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://skillbard.bandcamp.com/album/sam-sweetmilk-ep2-a-new-ghostworth-ost">Sam Sweetmilk Ep2: A New Ghostworth OST by Skillbard</a></iframe></div>

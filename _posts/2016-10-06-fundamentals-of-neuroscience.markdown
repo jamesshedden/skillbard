@@ -14,5 +14,5 @@ This video is a selection of the music, accompanied by random shots from lessons
 
 Harvard X is a Harvard University overseen organisation. Fundamentals Of Neuroscience is a MOOC (Massive Open Online Course) produced by Harvard X and is available to the whole world to learn for free.
 
-Directed by Nadia Oertelt
+Directed by Nadia Oertelt  
 Animations by Daniela Sherer

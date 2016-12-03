@@ -13,6 +13,14 @@
   text-align: left;
 }
 
+.post-container__content p {
+  width: 500px;
+}
+
+#bc {
+  margin-top:40px;
+}
+
 .post-container__content a,
 .post-container__content a:visited {
   color: $blue;

@@ -12,4 +12,4 @@ A short film by director Munir Malik.
 
 This is an edit of only the bits that included music. To see the full film please get in touch.
 
-<iframe style="border: 0; width: 700px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=21961174/size=large/bgcol=ffffff/linkcol=333333/artwork=none/transparent=true/" seamless="">[Munir Malik's Jung OST by Skillbard](http://skillbard.bandcamp.com/album/munir-maliks-jung-ost)</iframe></p>
+<div id="bc"><iframe style="border: 0; width: 400px; height: 671px;" src="https://bandcamp.com/EmbeddedPlayer/album=21961174/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://skillbard.bandcamp.com/album/munir-maliks-jung-ost">Munir Malik&#39;s Jung OST by Skillbard</a></iframe></p></div>
