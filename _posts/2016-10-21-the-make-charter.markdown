@@ -5,7 +5,7 @@ client: Make Architects
 date: '2016-10-26 20:51:25 +0100'
 thumbnail: /images/thumbnails/the-make-charter.png
 category: [sound]
-embed: http://vimeo.com/127808653
+embed: http://player.vimeo.com/video/127808653
 ---
 
 Sound design for Nicolas Ménard’s stop-frame interpretation of Make Architect’s ambitious Charter.
