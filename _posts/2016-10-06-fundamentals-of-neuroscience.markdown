@@ -8,11 +8,15 @@ category: music
 embed: https://player.vimeo.com/video/84349501
 ---
 
-Music for Harvard X’s introductory neuroscience course Fundamentals Of Neuroscience.
+Music for Harvard X’s course Fundamentals Of Neuroscience. Fundamentals Of Neuroscience is a MOOC (Massive Open Online Course) that runs for three years and is available for free from Harvard X.
 
-This video is a selection of the music, accompanied by random shots from lessons.
+This was Harvard's first multi-media MOOC. It incorporated documentaries, animations and interactive elements to create a rich and engaging learning experience.
 
-Harvard X is a Harvard University overseen organisation. Fundamentals Of Neuroscience is a MOOC (Massive Open Online Course) produced by Harvard X and is available to the whole world to learn for free.
+Being a three-year course a great deal of music and audio was required so only a selection can be presented here. The video above is a selection of the music of module 1, accompanied by random shots from lessons.
 
-Directed by Nadia Oertelt  
-Animations by Daniela Sherer
+Directed by [Nadia Oertelt](http://www.nadjaoertelt.com/)   
+Animations by [Daniela Sherer](danielasherer.com "Daniela Sherer")  
+[Harvard University](http://www.harvard.edu/)  
+[The Course](https://www.mcb80x.org/)
+
+<div id="bc"><iframe style="border: 0; width: 400px; height: 836px;" src="https://bandcamp.com/EmbeddedPlayer/album=2876773489/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://skillbard.bandcamp.com/album/x-harvard-fundamentals-of-neuroscience-module-1">X Harvard—Fundamentals of Neuroscience Module 1 by Skillbard</a></iframe></div>
