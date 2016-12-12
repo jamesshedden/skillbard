@@ -9,7 +9,7 @@ markdown: kramdown
 gems: [jekyll-assets, uglifier, jekyll-paginate]
 include: ["_pages"]
 permalink: /:title/
-paginate: 15
+paginate: 25
 paginate_path: /page/:num/
 host: 0.0.0.0
 assets:
