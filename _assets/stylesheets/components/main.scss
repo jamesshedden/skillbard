@@ -46,6 +46,30 @@
   margin-bottom: 20px;
 }
 
+.main__socials {
+  margin-top:40px;
+}
+
+.main__social-icon-link {
+  margin-right:10px;
+  display: inline-block;
+}
+
+
+.main__social-icon-link:last-child {
+  margin-right:0;
+}
+
+.main__social-icon {
+  width:34px;
+  opacity:0.5;
+}
+
+.main__social-icon:hover {
+  opacity:1;
+}
+
+
 @media (max-width: 1200px) {
   .main {
     position: relative;
