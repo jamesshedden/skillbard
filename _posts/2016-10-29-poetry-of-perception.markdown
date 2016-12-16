@@ -15,3 +15,5 @@ See the whole series [here](https://vimeo.com/channels/972301).
 Words by Walt Whitman  
 Animation by [Sophie Koko Gate](sophiekokogate.com)  
 Produced by [Nadja Oertelt](nadjaoertelt.com)
+
+<div id="bc"><iframe style="border: 0; width: 400px; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/album=3174661912/size=large/bgcol=ffffff/linkcol=333333/minimal=true/track=211244967/transparent=true/" seamless><a href="http://skillbard.bandcamp.com/album/harvard-fundamentals-of-neuroscience-module-3">Harvard—Fundamentals of Neuroscience Module 3 by Skillbard</a></iframe></div>
