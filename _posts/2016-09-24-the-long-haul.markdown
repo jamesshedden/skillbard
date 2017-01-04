@@ -9,6 +9,5 @@ embed: https://player.vimeo.com/video/134708033
 ---
 
 The Long Haul.
-Directed by Chloe White and Will Davies, 2015 (10 mins)
 
-Original Score.
+Original Score for this meditative short documentary directed by Chloe White and Will Davies.
