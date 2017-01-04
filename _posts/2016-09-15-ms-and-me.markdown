@@ -1,0 +1,15 @@
+---
+title: Ms and Me
+layout: post
+client: BBC3
+date: '2016-10-26 20:51:25 +0100'
+thumbnail: /images/thumbnails/msandme.png
+category: music
+embed: http://www.bbc.co.uk/programmes/p02xk7xt/player
+---
+
+Original Music.
+
+'‘I didn’t think I would turn into an old man before I was 30". Chloe White's film follows Kieran, as he deals with life following his diagnosis of MS.
+
+Funded by BBC3
