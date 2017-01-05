@@ -2,14 +2,16 @@
 title: The Acid Tapes
 layout: post
 client: Art Neuro
-date: '2016-09-14 20:51:25 +0100'
+date: '2016-10-26 20:51:25 +0100'
 thumbnail: /images/thumbnails/theacidtapes.png
 category: music
-embed: https://player.vimeo.com/video/2054828087
+embed: https://player.vimeo.com/video/116053348
 ---
-
-Original Music.
 
 Short documentary directed by Georgina Cammalleri for the Art-Neuro Project.
 
 Dr Robin Carhart-Harris and his team are the first scientists in the UK to test LSD on humans in the last 40 years.
+
+Original Music.
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2260811949/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://skillbard.bandcamp.com/album/the-acid-tapes">The Acid Tapes by Skillbard</a></iframe>
