@@ -2,7 +2,7 @@
 title: Sons of Atom
 layout: post
 client: Adam Butcher
-date: '2016-10-26 20:51:25 +0100'
+date: '2016-09-21 20:51:25 +0100'
 thumbnail: /images/thumbnails/sonsofatom.png
 category: music
 embed: https://www.youtube.com/embed/-hpy_wXVGlk?

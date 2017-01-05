@@ -2,7 +2,7 @@
 title: Meta Architecture
 layout: post
 client: s.m.a.c
-date: '2016-10-26 20:51:25 +0100'
+date: '2016-09-16 20:51:25 +0100'
 thumbnail: /images/thumbnails/metaarchitecture2.png
 category: music
 embed: https://player.vimeo.com/video/24058269

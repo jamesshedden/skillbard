@@ -2,7 +2,7 @@
 title: An All Encompassing Light
 layout: post
 client: Whalebone Films
-date: '2016-10-26 20:51:25 +0100'
+date: '2016-09-16 20:51:25 +0100'
 thumbnail: /images/thumbnails/anallencompassinglight.png
 category: music
 embed: https://player.vimeo.com/video/77958114

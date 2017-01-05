@@ -2,7 +2,7 @@
 title: Care To Join Us?
 layout: post
 client: Onefinestay
-date: '2016-10-26 20:51:25 +0100'
+date: '2016-09-18 20:51:25 +0100'
 thumbnail: /images/thumbnails/CareToJoinUs.png
 category: sound
 embed: https://player.vimeo.com/video/67385151

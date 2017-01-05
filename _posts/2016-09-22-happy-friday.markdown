@@ -2,7 +2,7 @@
 title: Happy Friday
 layout: post
 client: Mummu
-date: '2016-10-26 20:51:25 +0100'
+date: '2016-09-22 20:51:25 +0100'
 thumbnail: /images/thumbnails/HappyFriday.png
 category: [music, sound]
 embed: https://player.vimeo.com/video/84391042

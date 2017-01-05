@@ -2,7 +2,7 @@
 title: #TakeCareOfYourDigitalSelf
 layout: post
 client: Digital Wildfire Project
-date: '2016-10-26 20:51:25 +0100'
+date: '2016-11-04 20:51:25 +0100'
 thumbnail: /images/thumbnails/digital-wildfire.png
 category: sound
 embed: https://www.youtube.com/embed/5nXaEctiVhs

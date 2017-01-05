@@ -2,7 +2,7 @@
 title: Locum Tenens
 layout: post
 client: Comp Health
-date: '2016-10-26 20:51:25 +0100'
+date: '2016-10-25 20:51:25 +0100'
 thumbnail: /images/thumbnails/locum-tenens.png
 category: music
 embed: https://player.vimeo.com/video/127819100

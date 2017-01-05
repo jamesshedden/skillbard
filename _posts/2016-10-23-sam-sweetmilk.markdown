@@ -2,7 +2,7 @@
 title: Sam Sweetmilk
 layout: post
 client:
-date: '2016-10-26 20:51:25 +0100'
+date: '2016-10-23 20:51:25 +0100'
 thumbnail: /images/thumbnails/sam-sweetmilk-1.png
 category: music
 embed: https://player.vimeo.com/video/168807617

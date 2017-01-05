@@ -2,7 +2,7 @@
 title: AW2016 BTS
 layout: post
 client: River Island
-date: '2016-10-26 20:51:25 +0100'
+date: '2016-11-19 20:51:25 +0100'
 thumbnail: /images/thumbnails/riverisland.png
 category: music
 embed: https://player.vimeo.com/video/181649592

@@ -2,7 +2,7 @@
 title: A Flash Of Color
 layout: post
 client: Virtulalize / Harvard
-date: '2014-01-04 20:51:25 +0100'
+date: '2016-11-23 20:51:25 +0200'
 thumbnail: /images/thumbnails/flashofcolor.jpg
 category: [music]
 embed: https://bandcamp.com/EmbeddedPlayer/track=2054828087/size=large/bgcol=ffffff/linkcol=333333/"

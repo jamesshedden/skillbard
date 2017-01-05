@@ -2,7 +2,7 @@
 title: Quiet Videos
 layout: post
 client: The Guardian
-date: '2016-10-26 20:51:25 +0100'
+date: '2016-11-02 20:51:25 +0100'
 thumbnail: /images/thumbnails/QuietVideos.png
 category: music
 embed: https://www.youtube.com/embed/S22MX2pviM4

@@ -2,7 +2,7 @@
 title: 你好
 layout: post
 client: Blacklist
-date: '2016-10-26 20:51:25 +0100'
+date: '2016-11-11 20:51:25 +0100'
 thumbnail: /images/thumbnails/chinese-one.png
 category: [music, sound]
 embed: https://player.vimeo.com/video/165443234

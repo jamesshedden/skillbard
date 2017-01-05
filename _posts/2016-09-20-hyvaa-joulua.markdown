@@ -2,7 +2,7 @@
 title: Hyvää Joulua
 layout: post
 client: Mummu
-date: '2016-10-26 20:51:25 +0100'
+date: '2016-09-20 20:51:25 +0100'
 thumbnail: /images/thumbnails/HyvaaJoulua.png
 category: [music, sound]
 embed: https://player.vimeo.com/video/81704771

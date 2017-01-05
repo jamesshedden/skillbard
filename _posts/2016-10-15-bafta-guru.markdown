@@ -2,7 +2,7 @@
 title: BAFTA Guru
 layout: post
 client: BAFTA
-date: '2016-10-26 20:51:25 +0100'
+date: '2016-10-15 20:51:25 +0100'
 thumbnail: /images/thumbnails/bafta.png
 category: sound
 embed: https://www.youtube.com/embed/VIBgzwBdprg

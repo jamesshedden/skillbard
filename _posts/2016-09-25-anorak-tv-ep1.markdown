@@ -2,7 +2,7 @@
 title: Anorak TV Episode 1
 layout: post
 client: Anorak Magazine
-date: '2016-10-26 20:51:25 +0100'
+date: '2016-09-25 20:51:25 +0100'
 thumbnail: /images/thumbnails/ANORAKTV.png
 category: music
 embed: https://player.vimeo.com/video/38822355
