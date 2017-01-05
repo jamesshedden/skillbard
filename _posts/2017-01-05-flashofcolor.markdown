@@ -2,7 +2,7 @@
 title: A Flash Of Color
 layout: post
 client: Virtulalize / Harvard
-date: '2016-11-23 20:51:25 +0200'
+date: '2016-11-23 20:52:25 +0100'
 thumbnail: /images/thumbnails/flashofcolor.jpg
 category: [music]
 embed: https://bandcamp.com/EmbeddedPlayer/track=2054828087/size=large/bgcol=ffffff/linkcol=333333/"
@@ -16,6 +16,7 @@ Unfortunately, being a VR installation, a video of the piece is unavailable onli
 
 [Virtualize VR](http://www.virtualizevr.com/)  
 
+<br><br>
 <img src="https://static1.squarespace.com/static/55ae90a7e4b082c1ee844ba9/56f041fae32140760413a14d/56f0421862cd946e04a0d842/1458586292678/Chart_PressKit_03.png?format=1000w" width="100%">
 
 <img src="https://static1.squarespace.com/static/55ae90a7e4b082c1ee844ba9/56f041fae32140760413a14d/56f042147c65e4772e793a21/1464880553144/Chart_PressKit_01.jpg?format=2500w" width="100%">
