@@ -5,7 +5,7 @@ client: Virtulalize / Harvard
 date: '2016-11-23 20:52:25 +0100'
 thumbnail: /images/thumbnails/flashofcolor.jpg
 category: [music]
-embed: https://bandcamp.com/EmbeddedPlayer/track=2054828087/size=large/bgcol=ffffff/linkcol=333333/"
+embed: https://bandcamp.com/EmbeddedPlayer/track=2054828087/size=large/bgcol=ffffff/linkcol=333333/
 ---
 
 (Click image to play)
