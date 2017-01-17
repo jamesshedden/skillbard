@@ -6,7 +6,7 @@ layout: page
 
 Hello!
 
-Skillbard Studio is a friendly team of composers and sound designers with experience in film, television, games, sound art, pop music, sonic branding and all-out having a good time with sound.
+Skillbard Studio is a friendly team of composers and sound designers based in London. We have experience in film, television, games, sound art, pop music, sonic branding and all-out having a good time with sound.
 
 Each new task is approached with an open mind and a desire to challenge ourselves to do something fresh. Memorable music, stand-out sounds.
 
