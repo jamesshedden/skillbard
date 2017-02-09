@@ -1,0 +1,14 @@
+---
+title: Arla Buko
+layout: post
+client: Wieden & Kennedy
+date: '2016-11-22 20:51:25 +0100'
+thumbnail: /images/thumbnails/arlabuko.jpg
+category: [music]
+embed: https://player.vimeo.com/video/203343835
+---
+
+Music for Arla Buko TV ad.
+
+<a href="http://wklondon.com/">Wieden & Kennedy</a><br>
+<a href="http://www.arla.com/our-brands/arla-buko/">Arla</a>
