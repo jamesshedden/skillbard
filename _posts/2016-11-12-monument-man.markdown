@@ -10,5 +10,5 @@ embed: https://player.vimeo.com/video/145773334
 
 Music for this fashion film for Tank Magazine.
 
-[Martin Senyszak](martinsenyszak.com)  
-[Tank Magazine](tankmagazine.com)
+[Martin Senyszak](http://www.martinsenyszak.com)  
+[Tank Magazine](http://www.tankmagazine.com)

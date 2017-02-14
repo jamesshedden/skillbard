@@ -1,0 +1,14 @@
+---
+title: Weird Science
+layout: post
+client: King Kong Magazine
+date: '2017-01-16 16:00:00 +0100'
+thumbnail: /images/thumbnails/kingkong.jpg
+category: [music]
+embed: https://www.youtube.com/embed/z3GpFcnd7DM
+---
+
+Music for this Look Around You inspired fashion film.
+
+[Martin Senyszak](http://martinsenyszak.com)  
+[King Kong Magazine](http://www.kingkongmagazine.com/fashion/weird-science/)
