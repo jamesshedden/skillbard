@@ -4,7 +4,7 @@ layout: post
 client: Tank Mag
 date: '2016-11-12 20:51:25 +0100'
 thumbnail: /images/thumbnails/Tank.png
-category: music
+category: [music]
 embed: https://player.vimeo.com/video/145773334
 ---
 
