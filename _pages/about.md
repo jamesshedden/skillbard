@@ -14,4 +14,4 @@ We integrate a host of music making and sound bending skills to work seamlessly 
 
 On top of our years of composition & sound for media, between us we offer a diverse background of professional and personal experiences in writing, producing, performing and releasing in our respective pop acts as well as directing music videos, TV brand-spots and touring the world performing visuals to accompany live music. This is how we’ve developed such intuition when it comes to how image and sound interact.
 
-If you've got a project that needs the Skillbard treatment just sling us a [e-mail](mailto:contact@skillbard.com) and we’ll hop right to it!
+If you've got a project that needs the Skillbard treatment just sling us a [e-mail](mailto:hello@skillbard.com) and we’ll hop right to it!
