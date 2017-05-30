@@ -1,0 +1,14 @@
+---
+title: Hair
+layout: post
+client: School Of Life
+date: '2017-05-30 01:00:00 +0100'
+thumbnail: /images/thumbnails/hair.jpg
+category: [music, sound]
+embed: https://www.youtube.com/embed/kwwAJSI-dgo
+---
+
+Music and sound for another School Of Life life lesson directed by Joe Bichard. This time it's about hair.
+
+[Joe Bichard](https://www.joebichard.com)
+[School Of Life](www.schooloflife.com)
