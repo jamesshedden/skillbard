@@ -12,5 +12,6 @@ Music and Sound for Sean Buckelew's Lovesteams, created as part of Late Night Wo
 
 Sean posted an extensive "Making of" for the film [here](https://medium.com/@SeanBuckelew/lovestreams-making-of-48c7d0a3d81c) featuring some nice words on our collaboration.
 
-[Sean Buckelew](http://seanbuckelew.com/)
+[Sean Buckelew](http://seanbuckelew.com/)  
+
 [Late Night Work Club](http://latenightworkclub.com/)
