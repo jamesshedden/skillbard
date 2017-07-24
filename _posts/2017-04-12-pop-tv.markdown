@@ -2,7 +2,7 @@
 title: PopTV
 layout: post
 client: Sony
-date: '2016-10-28 20:51:25 +0100'
+date: '2017-04-12 20:51:25 +0100'
 thumbnail: /images/thumbnails/poptv1.png
 category: [music, sound]
 embed: https://player.vimeo.com/video/143551470
