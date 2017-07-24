@@ -3,7 +3,7 @@ title: Lovestreams
 layout: post
 client: Sean Buckelew
 date: '2017-05-22 01:00:00 +0100'
-thumbnail: /images/thumbnails/Lovestreams.png
+thumbnail: /images/thumbnails/lovestreams.png
 category: [music, sound]
 embed: https://player.vimeo.com/video/218419154
 ---
