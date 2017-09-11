@@ -14,6 +14,6 @@ Winner of the The Derek Williams Trust Purchase Prize at Artes Mundi 7.
 
 Screened at the National Museum Cardiff and in an abridged version as part of Ch4's Random Acts.
 
-[Bedwyr Williams](http://www.artesmundi.org/artists/bedwyr-williams)
+[Bedwyr Williams](http://www.artesmundi.org/artists/bedwyr-williams)  
 [Artes Mundi](http://www.artesmundi.org/)  
 [Random Acts](http://randomacts.channel4.com/)
