@@ -2,7 +2,7 @@
 title: Tyrrau Mawr
 layout: post
 client: Channel 4
-date: '2017-11-09 01:00:00 +0100'
+date: '2017-09-11 01:00:00 +0100'
 thumbnail: /images/thumbnails/tyrraumawr.png
 category: [music, sound]
 embed: https://www.youtube.com/embed/-k7HyR5K5bQ
