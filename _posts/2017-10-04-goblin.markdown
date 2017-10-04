@@ -1,0 +1,14 @@
+---
+title: Goblin
+layout: post
+client: MTV International
+date: '2017-10-04 01:00:00 +0100'
+thumbnail: /images/thumbnails/goblin.jpg
+category: [music, sound]
+embed: https://player.vimeo.com/video/228938722
+---
+
+Music and sound for Jonathan Djob Nkondo's contribution to MTV's rebranding.
+
+[Jonathan Djob Nkondo](http://absenteism.tumblr.com/)  
+[MTV](www.mtv.com)
