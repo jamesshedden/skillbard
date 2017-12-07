@@ -2,7 +2,7 @@
 title: Early Childhood Project
 layout: post
 client: The Atlantic
-date: '2017-11-21 01:00:00 +0100'
+date: '2017-05-12 01:00:00 +0100'
 thumbnail: /images/thumbnails/childhooddevelopment.png
 category: [music, sound]
 embed: https://www.theatlantic.com/video/iframe/526536/
