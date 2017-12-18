@@ -1,0 +1,16 @@
+---
+title: Like We Did Something Wrong
+layout: post
+client: ACLU
+date: '2017-01-29 01:00:00 +0100'
+thumbnail: /images/thumbnails/aclucake.jpg
+category: [music]
+embed: https://player.vimeo.com/video/239700290
+---
+
+Music for Daniela Sherer's short film for ACLU.
+
+David Mullins and Charlie Craig visited Masterpiece Cakeshop in July 2012, with Charlie's mother, to order a cake for their upcoming wedding reception. This is their story.
+
+[Daniela Sherer](http://danielasherer.com/)  
+[ACLU](http://aclu.com)  
