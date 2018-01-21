@@ -1,5 +1,5 @@
 ---
-title: GLASS 2018 Signal Film
+title: GLAS 2018 Signal Film
 layout: post
 client: GLAS Festival
 date: '2018-01-21 01:00:00 +0100'
