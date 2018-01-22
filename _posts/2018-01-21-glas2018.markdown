@@ -8,7 +8,7 @@ category: [music, sound]
 embed: https://player.vimeo.com/video/251197675
 ---
 
-A gamelan-inspired cacophony for for Ori Toor's animated maelstrom signal film for GLAS Animation Festival in Berkley, California.
+A gamelan-inspired cacophony for Ori Toor's animated maelstrom of a signal film for GLAS Animation Festival in Berkley, California.
 
 [GLAS Festival](http://www.glasanimation.com/about-us/)  
 [Ori Toor](https://vimeo.com/petermillard/)
