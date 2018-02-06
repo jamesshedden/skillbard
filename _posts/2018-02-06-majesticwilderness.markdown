@@ -1,5 +1,5 @@
 ---
-title: Majestic Wilderness
+title: Majestic Wilderness!
 layout: post
 client: Elenor Kopka
 date: '2018-02-06 01:00:00 +0100'
