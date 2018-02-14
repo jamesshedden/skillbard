@@ -1,0 +1,17 @@
+---
+title: Party!
+layout: post
+client: MTV International
+date: '2018-02-06 01:00:00 +0100'
+thumbnail: /images/thumbnails/party.jpg
+category: [music, sound]
+embed: https://player.vimeo.com/video/255540346
+---
+
+Music and sound for Arina Shabanova's contribution to MTV's rebranding.
+
+[Arina Shabanova](http://arinashabanova.com)  
+[MTV](http://www.mtv.com)  
+
+<br>
+<iframe style="border: 0; width: 400px; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/track=2461060333/size=large/bgcol=ffffff/linkcol=f171a2/minimal=true/transparent=true/" seamless><a href="http://skillbard.bandcamp.com/track/teh-dixieland-debacle">Teh Dixieland Debacle by Skillbard</a></iframe>

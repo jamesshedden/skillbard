@@ -14,4 +14,4 @@ You can watch the whole series [here](http://www.motoko.tv/en/production/animati
 
 Created by [Motoko](http://http://www.motoko.tv/)
 
-<iframe id="bc" style="border: 0; width: 258px; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/album=796378032/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://skillbard.bandcamp.com/album/de-haagse-ladekast">De Haagse Ladekast by Skillbard</a></iframe>
+<iframe id="bc" style="border: 0; width: 400px; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/album=796378032/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://skillbard.bandcamp.com/album/de-haagse-ladekast">De Haagse Ladekast by Skillbard</a></iframe>
