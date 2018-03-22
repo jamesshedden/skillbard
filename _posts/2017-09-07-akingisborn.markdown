@@ -8,7 +8,7 @@ category: [music, sound]
 embed: https://player.vimeo.com/video/232712384
 ---
 
-Music and sound for Sean Buckelew's contribution to MTV's rebranding.
+Music and sound for Sean Buckelew's maternal suspense MTV ident.
 
 [Sean Buckelew](http://www.seanbuckelew.com/)  
 [MTV](www.mtv.com)
