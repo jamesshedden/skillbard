@@ -1,0 +1,18 @@
+---
+title: DOGA Awards
+layout: post
+client: DOGA
+date: '2018-04-14 00:30:00 +0100'
+thumbnail: /images/thumbnails/doga.jpg
+category: [music, sound]
+embed: https://player.vimeo.com/video/264024490
+---
+
+Music for a series of Non-Format pieces for DOGA's the Norwegian design and architecture organisation.
+
+The first clip 'Transform' is taken from DOGA's festival, which was hosted in a former power station, the brutalist feel of which was echoed in the soundscape.
+
+The second peice was part of an award show called The Mark of Good Design by the same organisation. The award is given to the very best product and graphic design projects in Norway.
+
+[Non-Format](https://non-format.com/)   
+[DOGA](https://doga.no/)   
