@@ -8,7 +8,7 @@ category: [music, sound]
 embed: https://player.vimeo.com/video/264703042
 ---
 
-Music for a series of Non-Format pieces for DOGA's the Norwegian design and architecture organisation.
+Music for a series of Non-Format pieces for DOGA, the Norwegian design and architecture organisation.
 
 The first clip 'Transform' is taken from DOGA's festival, which was hosted in a former power station, the brutalist feel of which was echoed in the soundscape.
 
