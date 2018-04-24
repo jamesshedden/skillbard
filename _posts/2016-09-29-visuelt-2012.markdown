@@ -4,7 +4,7 @@ layout: post
 client: Grafil
 date: '2016-09-29 20:51:25 +0100'
 thumbnail: /images/thumbnails/visuelt2012.png
-category: music
+category: [music, showcase]
 embed: https://player.vimeo.com/video/42554063
 ---
 

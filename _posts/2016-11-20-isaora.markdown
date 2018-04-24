@@ -4,7 +4,7 @@ layout: post
 client: ISAORA
 date: '2016-11-20 20:51:25 +0100'
 thumbnail: /images/thumbnails/isaora.png
-category: music
+category: [music, showcase]
 embed: https://player.vimeo.com/video/182534013
 ---
 

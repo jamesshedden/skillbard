@@ -4,7 +4,7 @@ layout: post
 client: Late Night Work Club
 date: '2016-11-28 15:00:00 +0100'
 thumbnail: /images/thumbnails/lnwc2b.png
-category: [music, sound]
+category: [music, sound, showcase]
 embed: https://player.vimeo.com/video/193286118
 ---
 

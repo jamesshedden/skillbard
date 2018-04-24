@@ -4,7 +4,7 @@ layout: post
 client: It's Nice That / Canvas
 date: '2018-03-15 01:00:00 +0100'
 thumbnail: /images/thumbnails/baltic.jpg
-category: [music, sound]
+category: [music, sound, showcase]
 embed: https://www.youtube.com/embed/ja7DMsrGamU
 ---
 

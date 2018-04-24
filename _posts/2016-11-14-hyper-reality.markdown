@@ -4,7 +4,7 @@ layout: post
 client: Keichi Matsuda
 date: '2016-11-14 20:51:25 +0100'
 thumbnail: /images/thumbnails/hyper-reality_03.png
-category: [music, sound]
+category: [music, sound, showcase]
 embed: https://player.vimeo.com/video/166807261
 ---
 
