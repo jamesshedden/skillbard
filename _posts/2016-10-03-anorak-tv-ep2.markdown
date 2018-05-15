@@ -4,7 +4,7 @@ layout: post
 client: Anorak Magazine
 date: '2016-10-03 20:51:25 +0100'
 thumbnail: /images/thumbnails/AnrokakTVEP2-.png
-category: music
+category: [music, everything]
 embed: https://www.youtube.com/embed/v8ptnRSDgjE
 ---
 

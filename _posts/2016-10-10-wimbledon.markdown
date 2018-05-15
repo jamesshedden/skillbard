@@ -4,7 +4,7 @@ layout: post
 client: IBM
 date: '2016-10-10 20:51:25 +0100'
 thumbnail: /images/thumbnails/IBMWimbledon.png
-category: sound
+category: [sound, everything]
 embed: https://player.vimeo.com/video/103219202
 ---
 

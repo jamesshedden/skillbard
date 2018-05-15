@@ -4,7 +4,7 @@ layout: post
 client: Need/Done
 date: '2016-11-10 20:51:25 +0100'
 thumbnail: /images/thumbnails/need-done.png
-category: sound
+category: [sound, everything]
 embed: https://player.vimeo.com/video/161199255
 ---
 

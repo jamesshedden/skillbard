@@ -4,7 +4,7 @@ layout: post
 client: Whalebone Films
 date: '2016-09-16 20:51:25 +0100'
 thumbnail: /images/thumbnails/anallencompassinglight.png
-category: music
+category: [music, everything]
 embed: https://player.vimeo.com/video/77958114
 ---
 

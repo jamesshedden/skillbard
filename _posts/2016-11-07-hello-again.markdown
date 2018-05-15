@@ -4,7 +4,7 @@ layout: post
 client: Smithsonian Institution
 date: '2016-11-07 20:51:25 +0100'
 thumbnail: /images/thumbnails/hello-again.png
-category: [music, showcase]
+category: [music, showcase, everything]
 embed: https://www.youtube.com/embed/fKPG2NDISWE
 ---
 

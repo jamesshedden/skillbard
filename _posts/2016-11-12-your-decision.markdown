@@ -4,7 +4,7 @@ layout: post
 client: Compassion In Dying
 date: '2016-11-12 20:51:25 +0100'
 thumbnail: /images/thumbnails/yourdecision.png
-category: [sound]
+category: [sound, everything]
 embed: https://player.vimeo.com/video/202242430
 ---
 

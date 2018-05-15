@@ -4,7 +4,7 @@ layout: post
 client: BAFTA
 date: '2016-10-15 20:51:25 +0100'
 thumbnail: /images/thumbnails/bafta.png
-category: sound
+category: [sound, everything]
 embed: https://www.youtube.com/embed/VIBgzwBdprg
 ---
 

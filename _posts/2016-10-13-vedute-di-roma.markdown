@@ -4,7 +4,7 @@ layout: post
 client: Bulgari
 date: '2016-10-13 20:51:25 +0100'
 thumbnail: /images/thumbnails/veduti.png
-category: music
+category: [music, everything]
 embed: https://player.vimeo.com/video/108034127
 ---
 

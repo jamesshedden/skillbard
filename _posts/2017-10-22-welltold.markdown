@@ -4,7 +4,7 @@ layout: post
 client: Well Told Health
 date: '2017-05-30 01:00:00 +0100'
 thumbnail: /images/thumbnails/wth.jpg
-category: [music, sound]
+category: [music, sound, everything]
 embed: https://www.youtube.com/embed/b3o2tal1-sY
 ---
 

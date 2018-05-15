@@ -4,7 +4,7 @@ layout: post
 client: BBC3
 date: '2016-09-24 20:51:25 +0100'
 thumbnail: /images/thumbnails/msandme.png
-category: music
+category: [music, everything]
 embed: http://www.bbc.co.uk/programmes/p02xk7xt/player
 ---
 

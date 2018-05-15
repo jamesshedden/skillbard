@@ -4,7 +4,7 @@ layout: post
 client: JHub
 date: '2016-10-28 20:51:25 +0100'
 thumbnail: /images/thumbnails/jdov.png
-category: music
+category: [music, everything]
 embed: https://player.vimeo.com/video/148041467
 ---
 

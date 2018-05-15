@@ -4,7 +4,7 @@ layout: post
 client: Veuve Clicquot
 date: '2016-10-01 20:51:25 +0100'
 thumbnail: /images/thumbnails/alchemy.png
-category: music
+category: [music, everything]
 embed: https://player.vimeo.com/video/48294871
 ---
 

@@ -4,7 +4,7 @@ layout: post
 client: IBM
 date: '2016-10-09 20:51:25 +0100'
 thumbnail: /images/thumbnails/BodyTalking.png
-category: [sound]
+category: [sound, everything]
 embed: https://www.youtube.com/embed/pqxj3FRwPTs
 ---
 

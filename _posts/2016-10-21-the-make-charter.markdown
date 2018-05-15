@@ -4,7 +4,7 @@ layout: post
 client: Make Architects
 date: '2016-10-21 20:51:25 +0100'
 thumbnail: /images/thumbnails/the-make-charter.png
-category: [sound]
+category: [sound, everything]
 embed: http://player.vimeo.com/video/127808653
 ---
 

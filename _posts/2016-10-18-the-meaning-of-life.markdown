@@ -4,7 +4,7 @@ layout: post
 client: Alain De Botton's School Of Life
 date: '2016-10-18 20:51:25 +0100'
 thumbnail: /images/thumbnails/secrets-of-happiness.png
-category: [sound]
+category: [sound, everything]
 embed: https://www.youtube.com/embed/NDNmC11vGYk
 ---
 

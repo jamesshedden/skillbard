@@ -4,7 +4,7 @@ layout: post
 client: Adam Butcher
 date: '2016-09-21 20:51:25 +0100'
 thumbnail: /images/thumbnails/sonsofatom.png
-category: music
+category: [music, everything]
 embed: https://www.youtube.com/embed/-hpy_wXVGlk?
 ---
 

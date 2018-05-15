@@ -4,7 +4,7 @@ layout: post
 client: Peter Millard
 date: '2018-01-16 01:00:00 +0100'
 thumbnail: /images/thumbnails/sixgodalphabetpeter.jpg
-category: [music]
+category: [music, everything]
 embed: https://player.vimeo.com/video/192471299
 ---
 

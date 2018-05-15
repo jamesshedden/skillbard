@@ -4,7 +4,7 @@ layout: post
 client: Wieden & Kennedy
 date: '2016-11-22 20:51:25 +0100'
 thumbnail: /images/thumbnails/arlabuko.jpg
-category: [music]
+category: [music, everything]
 embed: https://player.vimeo.com/video/203343835
 ---
 

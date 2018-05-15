@@ -4,7 +4,7 @@ layout: post
 client: Vox
 date: '2016-11-18 20:51:25 +0100'
 thumbnail: /images/thumbnails/death.png
-category: [music, sound]
+category: [music, sound, everything]
 embed: https://www.youtube.com/embed/Mx9A0BjhEdU
 ---
 

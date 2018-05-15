@@ -4,7 +4,7 @@ layout: post
 client: Jonathan Djob Nkondo
 date: '2017-05-06 16:00:00 +0100'
 thumbnail: /images/thumbnails/exhibition.jpg
-category: [music, sound, showcase]
+category: [music, sound, showcase, everything]
 embed: https://player.vimeo.com/video/164884034
 ---
 

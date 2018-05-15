@@ -4,7 +4,7 @@ layout: post
 client: Harvard University
 date: '2016-11-01 20:51:25 +0100'
 thumbnail: /images/thumbnails/Being-2.png
-category: [music, sound]
+category: [music, sound, everything]
 embed: https://player.vimeo.com/video/140656660
 ---
 

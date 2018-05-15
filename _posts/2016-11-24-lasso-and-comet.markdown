@@ -4,7 +4,7 @@ layout: post
 client: Cartoon Network
 date: '2016-11-24 20:51:26 +0100'
 thumbnail: /images/thumbnails/LassoAndComet.png
-category: [sound, showcase]
+category: [sound, showcase, everything]
 embed: https://www.youtube.com/embed/n08lJ5Jq5js
 ---
 

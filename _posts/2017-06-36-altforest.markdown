@@ -4,7 +4,7 @@ layout: post
 client: Scriberia
 date: '2017-05-29 01:00:00 +0100'
 thumbnail: /images/thumbnails/altforest.png
-category: [music, sound]
+category: [music, sound, everything]
 embed: https://www.youtube.com/embed/D-jEg7NRPvU
 ---
 

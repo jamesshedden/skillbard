@@ -4,7 +4,7 @@ layout: post
 client: Channel 4
 date: '2017-09-11 01:00:00 +0100'
 thumbnail: /images/thumbnails/tyrraumawr.jpg
-category: [music, sound]
+category: [music, sound, everything]
 embed: https://www.youtube.com/embed/-k7HyR5K5bQ
 ---
 

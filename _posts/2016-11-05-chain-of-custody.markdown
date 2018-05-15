@@ -4,7 +4,7 @@ layout: post
 client: Better Cotton Initiative
 date: '2016-11-05 20:51:25 +0100'
 thumbnail: /images/thumbnails/Chain-of-custody.png
-category: sound
+category: [sound, everything]
 embed: https://player.vimeo.com/video/149434241
 ---
 

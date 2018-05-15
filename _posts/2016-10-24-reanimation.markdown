@@ -4,7 +4,7 @@ layout: post
 client: France 4
 date: '2016-10-24 20:51:25 +0100'
 thumbnail: /images/thumbnails/reanimation.png
-category: sound
+category: [sound, everything]
 embed: https://player.vimeo.com/video/168764178
 ---
 

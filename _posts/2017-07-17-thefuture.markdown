@@ -4,7 +4,7 @@ layout: post
 client: Truba Animation
 date: '2017-07-17 01:00:00 +0100'
 thumbnail: /images/thumbnails/thefuture.jpg
-category: [music, sound, showcase]
+category: [music, sound, showcase, everything]
 embed: https://player.vimeo.com/video/224893042
 ---
 

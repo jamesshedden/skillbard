@@ -4,7 +4,7 @@ layout: post
 client: Art Neuro
 date: '2016-09-14 20:51:25 +0100'
 thumbnail: /images/thumbnails/theacidtapes.png
-category: music
+category: [everything, music]
 embed: https://player.vimeo.com/video/116053348
 ---
 

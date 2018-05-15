@@ -4,7 +4,7 @@ layout: post
 client: The Atlantic
 date: '2017-05-12 01:00:00 +0100'
 thumbnail: /images/thumbnails/childhooddevelopment.png
-category: [music, sound]
+category: [music, sound, everything]
 embed: https://www.theatlantic.com/video/iframe/526536/
 ---
 
