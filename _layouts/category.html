@@ -2,18 +2,20 @@
 layout: default
 ---
 
-<div class="tile">
-  <div class="tile__wrapper">
-    <img src="/images/placeholder.gif">
-    <div class="tile__overlay tile__overlay--category">
-      <div class="tile__overlay-text">
-        {{ page.category | capitalize }}<br>
+{% if site.sidebar_categories contains page.category %}
+  <div class="tile">
+    <div class="tile__wrapper">
+      <img src="/images/placeholder.gif">
+      <div class="tile__overlay tile__overlay--category">
+        <div class="tile__overlay-text">
+          {{ page.category | capitalize }}<br>
 
-        <a href="/" class="tile__overlay-home-link">✖</a>
+          <a href="/" class="tile__overlay-home-link">✖</a>
+        </div>
       </div>
     </div>
   </div>
-</div>
+{% endif %}
 
 {% for post in site.categories.[page.category] %}
   {% include tile.html %}

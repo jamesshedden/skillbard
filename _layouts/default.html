@@ -162,7 +162,7 @@
 
         <ul>
           {% for category in site.categories %}
-            {% if category[0] != "showcase" %}
+            {% if site.sidebar_categories contains category[0] %}
               <li>
                 <a class="u-link"
                 href="/{{ category[0] }}">
