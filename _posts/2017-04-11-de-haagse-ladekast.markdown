@@ -4,7 +4,7 @@ layout: post
 client: CultuurSchakel
 date: '2017-04-03 16:00:00 +0100'
 thumbnail: /images/thumbnails/dehaagseladekast.png
-category: [music, sound, showcase, everything]
+category: [music, sound, showcase, everything, kids-reel]
 embed: https://player.vimeo.com/video/192434064
 ---
 
