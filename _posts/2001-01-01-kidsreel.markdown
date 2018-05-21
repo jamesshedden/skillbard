@@ -1,0 +1,15 @@
+---
+title: Kids Music Reel
+layout: post
+client: For Letko
+date: '2001-01-01 00:00:00 +0100'
+thumbnail: /images/thumbnails/kidsreel.jpg
+category: [letko]
+embed: https://player.vimeo.com/video/268787938
+---
+
+A little taste of some of the kid-friendly projects we've worked on. We created 100% of the sound and the music that you hear in every clip.
+
+If you're interested in viewing/reading about the full projects, We've set up [this](/letko) little collection for you.
+
+Enjoy!
