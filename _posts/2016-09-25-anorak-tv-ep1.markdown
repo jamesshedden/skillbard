@@ -4,7 +4,7 @@ layout: post
 client: Anorak Magazine
 date: '2016-09-25 20:51:25 +0100'
 thumbnail: /images/thumbnails/ANORAKTV.png
-category: [music, showcase, everything]
+category: [music, showcase, everything, kids-reel]
 embed: https://player.vimeo.com/video/38822355
 ---
 

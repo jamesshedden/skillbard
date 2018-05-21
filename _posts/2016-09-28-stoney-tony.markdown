@@ -4,7 +4,7 @@ layout: post
 client: Rumpus Animation
 date: '2016-09-28 20:51:25 +0100'
 thumbnail: /images/thumbnails/StonyTony.png
-category: [music, sound, everything]
+category: [music, sound, everything, kids-reel]
 embed: https://player.vimeo.com/video/58638171
 ---
 
