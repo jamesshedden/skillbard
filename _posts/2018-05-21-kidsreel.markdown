@@ -5,7 +5,7 @@ client: Showreel
 date: '2018-05-21 00:22:30 +0100'
 thumbnail: /images/thumbnails/kidsreel.jpg
 category: [kids-reel]
-embed: https://player.vimeo.com/video/268787938
+embed: https://player.vimeo.com/video/271178228
 ---
 
 A little taste of some of the kid-friendly projects we've worked on. We created 100% of the sound and the music that you hear in each clip and loved every minute of it.
