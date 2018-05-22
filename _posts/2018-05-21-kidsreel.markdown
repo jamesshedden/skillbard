@@ -15,3 +15,6 @@ We should have sent you a password in an email but if we forgot or there's a pro
 If you're interested in viewing/reading about the full projects, We've set up [this](/kids-reel) little collection for you.
 
 Enjoy!
+
+<br>
+<iframe width="100%" height="660" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/525042870%3Fsecret_token%3Ds-ZQw3u&color=%23007bd0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
