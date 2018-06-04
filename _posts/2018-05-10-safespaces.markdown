@@ -1,5 +1,5 @@
 ---
-title: Safe Spaces with Trevor Noah
+title: Safe Spaces w/Trevor Noah
 layout: post
 client: WeTransfer
 date: '2018-05-10 00:30:00 +0100'
