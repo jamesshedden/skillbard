@@ -4,8 +4,8 @@ layout: post
 client: Massive
 date: '2018-06-13 00:15:10 +0100'
 thumbnail: /images/thumbnails/reanimation.jpg
-category: [everything, sound, music]
-embed: https://player.vimeo.com/video/263012350
+category: [showcase, everything, sound, music]
+embed: https://bandcamp.com/EmbeddedPlayer/album=1938970005/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/
 ---
 
 Music and sound for Reanimation!, a seven-part series created for Massive by seven animation teams, 12 scientists, writers, engineers, physicists and an archaeologist, which casts a scientific eye on the lasting impact of Shelley’s famous work (Frankenstein, of course).
@@ -23,5 +23,12 @@ More information and the full series [here](http://massivesci.com/articles/reani
 
 [Massive](http://massivesci.com/)   
 
+
 <br>
-<iframe style="border: 0; width: 350px; height: 687px;" src="https://bandcamp.com/EmbeddedPlayer/album=1938970005/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://skillbard.bandcamp.com/album/reanimation">Reanimation! by Skillbard</a></iframe>
+<iframe src="https://player.vimeo.com/video/263012350?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/262998843?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/263015802?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/263012440?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
