@@ -4,7 +4,7 @@ layout: post
 client: Joe Sparrow
 date: '2018-06-17 00:15:10 +0100'
 thumbnail: /images/thumbnails/homonculus.jpg
-category: [everything, sound, music]
+category: [everything, sound]
 embed: https://www.tumblr.com/video/joe-sparrow/174910473153/250/
 
 ---
