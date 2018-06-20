@@ -9,7 +9,7 @@ embed: https://www.tumblr.com/video/joe-sparrow/174910473153/250/
 
 ---
 
-We created sound for this trailer for Joe Sparrow's latest comic Homunculus, incorporated the music of the IBM 7094, which in 1961 wowed the world by being the worlds first [singing computer](https://www.youtube.com/watch?v=yIwhx3NQSLg), inspiring the dying words of HAL in Kubrick's 2001: A Space Odyssey.
+We created sound for this trailer for Joe Sparrow's latest comic Homunculus, incorporating the music of the IBM 7094, which in 1961 wowed the world by being the worlds first [singing computer](https://www.youtube.com/watch?v=yIwhx3NQSLg), inspiring the dying words of HAL in Kubrick's 2001: A Space Odyssey.
 
 Homunculus is available from Short Box.
 
