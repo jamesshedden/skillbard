@@ -1,7 +1,7 @@
 ---
 title: Ping pong
 layout: post
-client: Jonathan Djob Nkondo & Titouan Bordeu
+client: Jonathan Djob Nkondo & Titouan Bordeau
 date: '2018-06-17 00:15:10 +0100'
 thumbnail: /images/thumbnails/pingpong.jpg
 category: [everything, sound, music]
@@ -11,4 +11,4 @@ embed: https://player.vimeo.com/video/274064813
 Titouan and Jonathan played "ping pong" for few days. One created few random shots, sent them to the other and so forth until a story was pieced together. We played the same game at Skillbard too.
 
 [Jonathan Djob Nkondo](https://vimeo.com/jonathandjobnkondo){:target="_blank"}   
-[Titouan Bordeu](http://titouanbordeau.tumblr.com/){:target="_blank"}  
+[Titouan Bordeau](http://titouanbordeau.tumblr.com/){:target="_blank"}  
