@@ -1,0 +1,15 @@
+---
+title: FAB'18 Festival Opener
+layout: post
+client: FAB Festival
+date: '2018-08-06 00:15:10 +0100'
+thumbnail: /images/thumbnails/fab.jpg
+category: [everything, music]
+embed: https://player.vimeo.com/video/282705090
+
+---
+
+Music for Truba Animation's animated expressive dance festival opener for Festival Of Animation Berlin 2018.
+
+[Truba Animation](http://trubaanimation.com/portfolio-item/festival-of-animated-film-berlin/){:target="_blank"}   
+[FAB Festival](http://www.fa-berlin.com/){:target="_blank"}  
