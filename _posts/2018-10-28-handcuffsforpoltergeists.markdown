@@ -15,12 +15,12 @@ Written by ROB CARTER
 
 Starring ROB CARTER, ELLIE WHITE & BEN ASHENDEN
 
-Directed by DAN BRITT
-Produced by JOSEPH SCANTLEBURY
-Director of Photography TOMMY BOLWELL
-Edited by LIAM ACTON & DAN BRITT
+Directed by DAN BRITT  
+Produced by JOSEPH SCANTLEBURY  
+Director of Photography TOMMY BOLWELL  
+Edited by LIAM ACTON & DAN BRITT  
 
-co production with Blink Industries
+co production with Blink Industries  
 
 [DAN BRITT](http://www.danielbritt.co.uk/){:target="_blank"}   
 [Christopher Bliss](http://www.christopherblisswebsite.com/){:target="_blank"}  
