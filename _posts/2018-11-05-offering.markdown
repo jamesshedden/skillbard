@@ -1,0 +1,18 @@
+---
+title: The Offering
+layout: post
+client: Adult Swim
+date: '2018-10-29 00:15:10 +0100'
+thumbnail: /images/thumbnails/offering.jpg
+category: [everything, sound, music]
+embed: https://player.vimeo.com/video/298969255
+
+---
+
+Music and sound Elenor Kopka's contribution to Adult Swim's Off The Air TV anthology, this time on the subject of Sound.
+
+Watch the whole episode [here](https://www.youtube.com/watch?v=tpwe69g_7Sg).
+
+[Elenor Kopka](hhttp://elenorkopka.de/){:target="_blank"}   
+[Adult Swim](http://www.adultswim.com/){:target="_blank"}  
+[Off The Air](https://www.adultswim.com/streams/off-the-air){:target="_blank"}  
