@@ -4,7 +4,11 @@ layout: post
 client: Adult Swim
 date: '2018-10-29 00:15:10 +0100'
 thumbnail: /images/thumbnails/offering.jpg
+<<<<<<< Updated upstream
 category: [everything, sound, music, showcase]
+=======
+category: [everything, showcase, sound, music]
+>>>>>>> Stashed changes
 embed: https://player.vimeo.com/video/298969255
 
 ---
