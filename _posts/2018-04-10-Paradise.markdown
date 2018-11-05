@@ -4,7 +4,7 @@ layout: post
 client: Adult Swim
 date: '2018-04-10 01:00:00 +0100'
 thumbnail: /images/thumbnails/paradise.jpg
-category: [music, sound, showcase, everything, kids-reel]
+category: [music, sound, everything, kids-reel]
 embed: https://player.vimeo.com/video/264024490
 ---
 

@@ -4,7 +4,7 @@ layout: post
 client: MTV International
 date: '2017-11-04 01:00:00 +0100'
 thumbnail: /images/thumbnails/goblin.jpg
-category: [music, sound, showcase, everything]
+category: [music, sound, everything]
 embed: https://player.vimeo.com/video/228938722
 ---
 

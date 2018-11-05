@@ -4,7 +4,7 @@ layout: post
 client: Elenor Kopka
 date: '2018-02-06 01:00:00 +0100'
 thumbnail: /images/thumbnails/majwild.jpg
-category: [music, sound, showcase, everything, kids-reel]
+category: [music, sound, everything, kids-reel]
 embed: https://player.vimeo.com/video/254490681
 ---
 

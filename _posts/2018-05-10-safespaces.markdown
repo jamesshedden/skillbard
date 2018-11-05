@@ -4,7 +4,7 @@ layout: post
 client: WeTransfer
 date: '2018-05-10 00:30:00 +0100'
 thumbnail: /images/thumbnails/safespaces.jpg
-category: [sound, showcase, everything]
+category: [sound, everything]
 embed: https://player.vimeo.com/video/268941867
 ---
 
