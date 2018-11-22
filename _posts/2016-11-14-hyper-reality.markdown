@@ -1,7 +1,7 @@
 ---
 title: Hyper Reality
 layout: post
-client: Keichi Matsuda
+client: Keiichi Matsuda
 date: '2016-11-14 20:51:25 +0100'
 thumbnail: /images/thumbnails/hyper-reality_03.png
 category: [music, sound, showcase, everything]

@@ -1,7 +1,7 @@
 ---
 title: MERGER
 layout: post
-client: Keichi Matsuda
+client: Keiichi Matsuda
 date: '2018-11-22 00:15:10 +0100'
 thumbnail: /images/thumbnails/merger.jpg
 category: [everything, sound, music, showcase]
@@ -9,8 +9,14 @@ embed: https://www.youtube.com/embed/qyB6-tDuyTU
 
 ---
 
-Music, sound and ambisonic mix for Keichi Matsuda's typically dismal VR film predicting the future of work and productivity.
+Music and 3D sound design for Keiichi Matsuda's visionary VR film predicting the future of work and productivity.
+
+Following on from our work on Keiichi's [Hyper Reality](http://skillbard.com/hyper-reality/), We researched and implemented cutting edge techniques to create an ambisonic 360 binaural mix for Merger that reacts to the direction the viewer is looking.
+
+Playable in Oculus Rift VR, Youtube 360, and Facebook 360.
 
 More info [here](http://km.cx/projects/merger){:target="_blank"}   
 
-[Keiichi Matsuda](http://km.cx){:target="_blank"}   
+Directed by [Keiichi Matsuda](http://km.cx){:target="_blank"}
+
+Starring [Sarah Winter](https://www.imdb.com/name/nm2812480/){:target="_blank"}     
