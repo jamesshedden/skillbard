@@ -1,0 +1,16 @@
+---
+title: MERGER
+layout: post
+client: Keichi Matsuda
+date: '2018-11-22 00:15:10 +0100'
+thumbnail: /images/thumbnails/merger.jpg
+category: [everything, sound, music, showcase]
+embed: https://www.youtube.com/embed/qyB6-tDuyTU
+
+---
+
+Music, sound and ambisonic mix for Keichi Matsuda's typically dismal VR film predicting the future of work and productivity.
+
+More info [here](http://km.cx/projects/merger){:target="_blank"}   
+
+[Keiichi Matsuda](http://km.cx){:target="_blank"}   
