@@ -11,7 +11,7 @@ embed: https://www.youtube.com/embed/qyB6-tDuyTU
 
 Music and 3D sound design for Keiichi Matsuda's visionary VR film predicting the future of work and productivity.
 
-Following on from our work on Keiichi's [Hyper Reality](http://skillbard.com/hyper-reality/), We researched and implemented cutting edge techniques to create an ambisonic 360 binaural mix for Merger that reacts to the direction the viewer is looking.
+Following on from our work on Keiichi's [Hyper Reality](http://skillbard.com/hyper-reality/), we researched and implemented cutting edge techniques to create an ambisonic 360 binaural mix that reacts to the direction the viewer's head is turned.
 
 Playable in Oculus Rift VR, Youtube 360, and Facebook 360.
 
