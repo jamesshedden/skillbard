@@ -5,7 +5,7 @@ client: It's Nice That / Canvas
 date: '2018-03-15 01:00:00 +0100'
 thumbnail: /images/thumbnails/baltic.jpg
 category: [music, sound, showcase, everything]
-embed: https://www.youtube.com/embed/ja7DMsrGamU
+embed: https://player.vimeo.com/video/260757651
 ---
 
 Music and sound for Rob Wallace AKA Parallel Teeth's psychedelic trip around Baltic Art Galley in Gateshead, made for It's Nice That and Canvas and produced by Strange Beast.
