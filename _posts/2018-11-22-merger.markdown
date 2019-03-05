@@ -4,8 +4,8 @@ layout: post
 client: Keiichi Matsuda
 date: '2018-11-22 00:15:10 +0100'
 thumbnail: /images/thumbnails/merger.jpg
-category: [everything, sound, music, showcase]
-embed: https://www.youtube.com/embed/qyB6-tDuyTU
+category: [everything, sound, music, showcase, shorts, interactive]
+embed: https://player.vimeo.com/video/302028562
 
 ---
 

@@ -4,7 +4,7 @@ layout: post
 client: Dan Britt
 date: '2018-10-28 00:15:10 +0100'
 thumbnail: /images/thumbnails/h4p.jpg
-category: [everything, music, sound, showcase]
+category: [everything, music, sound, showcase, shorts]
 embed: https://player.vimeo.com/video/296913892
 
 ---

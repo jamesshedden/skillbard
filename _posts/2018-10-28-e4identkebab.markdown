@@ -4,7 +4,7 @@ layout: post
 client: E4
 date: '2018-10-28 00:15:10 +0100'
 thumbnail: /images/thumbnails/e4indentkebab.jpg
-category: [everything, music, sound]
+category: [everything, music, sound, commercial]
 embed: https://player.vimeo.com/video/292559521
 
 ---

@@ -4,7 +4,7 @@ layout: post
 client: Keith Khan & Associates
 date: '2016-09-17 20:51:25 +0100'
 thumbnail: /images/thumbnails/chipshop.png
-category: [music, everything]
+category: [music, everything, installation]
 embed: https://player.vimeo.com/video/19674412
 ---
 We recorded a full orchestra for this east London sunrise to a one note symphony.
