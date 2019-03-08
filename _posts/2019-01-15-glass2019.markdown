@@ -4,7 +4,7 @@ layout: post
 client: GLAS Festival
 date: '2019-01-15 00:15:10 +0100'
 thumbnail: /images/thumbnails/glas2019.jpg
-category: [everything, sound, music, showcase]
+category: [everything, sound, music]
 embed: https://player.vimeo.com/video/311181403
 
 ---

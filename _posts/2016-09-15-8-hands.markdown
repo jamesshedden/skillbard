@@ -4,7 +4,7 @@ layout: post
 client: Logia Group
 date: '2016-09-15 20:51:25 +0100'
 thumbnail: /images/thumbnails/8hands.png
-category: [sound, everything, interactive]
+category: [sound, everything]
 embed: https://player.vimeo.com/video/24020901
 ---
 Alert sounds for 8 hands, a social network aggregator software.

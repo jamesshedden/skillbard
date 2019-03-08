@@ -4,7 +4,7 @@ layout: post
 client: Dante Zaballa
 date: '2018-12-06 00:15:10 +0100'
 thumbnail: /images/thumbnails/japan.jpg
-category: [everything, sound, music, shorts]
+category: [everything, sound, music]
 embed: https://player.vimeo.com/video/304156637
 
 ---

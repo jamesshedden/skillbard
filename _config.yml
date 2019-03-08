@@ -12,7 +12,7 @@ permalink: /:title/
 paginate: 25
 paginate_path: /page/:num/
 host: 0.0.0.0
-sidebar_categories: [everything, music, sound, shorts]
+sidebar_categories: [music, sound, everything]
 assets:
   sources:
     - _assets
