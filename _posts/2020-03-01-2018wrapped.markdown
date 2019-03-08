@@ -1,0 +1,24 @@
+---
+title: 2018 Wrapped
+layout: post
+client: Spotify
+date: '2019-03-08 00:14:10 +0100'
+thumbnail: /images/thumbnails/2018wrapped.jpg
+category: [everything, sound, music, showcase]
+embed: https://player.vimeo.com/video/322197025
+
+---
+
+Spotify's biggest campaign of the year, Wrapped is a chance for users to relive their year in music with lists and charts of their personal listening habits.
+
+We made a bank of sounds and music for Wrapped's promotional campaign, which were then distributed and utilised on hundreds of clips worldwide.
+
+[Spotify Wrapped](https://spotifywrapped.com){:target="_blank"}
+
+<br>
+<iframe src="https://player.vimeo.com/video/322197002?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/322197016?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/322196988?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
