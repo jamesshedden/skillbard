@@ -1,26 +1,15 @@
 ---
-title: Backstories: Game of Thrones
+title: "Backstories: Game of Thrones"
 layout: post
 client: HBO
 date: '2019-04-25 00:14:10 +0100'
-thumbnail: /images/thumbnails/2018wrapped.jpg
+thumbnail: /images/thumbnails/backstoriesgot.jpg
 category: [everything, sound, music, showcase]
-embed: https://player.vimeo.com/video/322197025
+embed: https://www.youtube.com/embed/puxjtmU7H70
 
 ---
 
-Spotify's biggest campaign of the year, Wrapped is a chance for users to relive their year in music with lists and charts of their personal listening habits.
+Sound and music for this behind-the-scenes tale from Game Of Thrones creators D.B Weiss and David Benioff, interpreted by Greg Sharp and Ivan Dixon.
 
-We made a bank of sounds and music for Wrapped's promotional campaign, which were then distributed and utilised on hundreds of clips worldwide.
-
-Featuring illustrations by [Joseph Melhuish](http://www.josephmelhuish.com/){:target="_blank"}
-
-[Spotify Wrapped](https://spotifywrapped.com){:target="_blank"}
-
-<br>
-<iframe src="https://player.vimeo.com/video/322197002?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<iframe src="https://player.vimeo.com/video/322197016?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<iframe src="https://player.vimeo.com/video/322196988?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+Produced by [Truba](http://trubaanimation.com){:target="_blank"}  
+[HBO](http://www.hbo.com){:target="_blank"}  
