@@ -8,6 +8,7 @@
   transform: translateX(0);
   transition: 0.2s transform $animation-curve;
   border: 20px solid $green;
+  background-clip: content-box;
 }
 
 .site.is-open {
