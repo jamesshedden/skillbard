@@ -1,0 +1,20 @@
+---
+title: Honour
+layout: post
+client: Frederic Siegel
+date: '2019-08-15 00:14:10 +0100'
+thumbnail: /images/thumbnails/honour.jpg
+category: [everything, music, sound, showcase]
+embed: https://player.vimeo.com/video/353671474
+
+---
+
+Haunting, other-worldly score and sound design for Frederic Siegel's super-wide, hyper-stylized short Honour, which Premiered on Vimeo Staff Picks Premieres. More info [here](https://vimeo.com/blog/post/staff-pick-premiere-honour-by-frederic-siegel/){:target="_blank"}.
+
+Produced by Frederic Siegel and Team Tumult.
+
+[Frederic Siegel](https://fredericsiegel.ch/honour){:target="_blank"}  
+[Team Tumult](https://www.teamtumult.ch){:target="_blank"}
+
+<br>
+<img src="https://pro2-bar-s3-cdn-cf1.myportfolio.com/1948db2d8ef85bd5dd176d92db0f429d/99070039-5a05-4856-b007-baf7bb0f373b_rw_1200.png?h=c19cb0b43c05d347375731d63fe7a776" width="100%">
