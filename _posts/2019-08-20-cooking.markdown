@@ -1,0 +1,19 @@
+---
+title: Cooking
+layout: post
+client: Adult Swim
+date: '2019-08-20 00:14:10 +0100'
+thumbnail: /images/thumbnails/cooking.jpg
+category: [everything, music, sound, showcase]
+embed: https://player.vimeo.com/video/354823914
+
+---
+
+Am-dram opera and sizzling sound for Elena Kopka's Cooking, commissioned by Adult Swim for their Smalls series of shorts.
+
+Egg: Emily Pollard  
+Bacon 1: Vincent Oliver  
+Bacon 2: Thomas Carrell
+
+[Elena Kopka](http://elenorkopka.de/){:target="_blank"}  
+[Adult Swim](https://www.adultswim.com/){:target="_blank"}
