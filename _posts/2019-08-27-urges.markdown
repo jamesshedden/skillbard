@@ -1,0 +1,17 @@
+---
+title: Urges
+layout: post
+client: Adult Swim
+date: '2019-08-27 00:14:10 +0100'
+thumbnail: /images/thumbnails/urges.jpg
+category: [everything, music, sound, showcase]
+embed: https://player.vimeo.com/video/356042333
+
+---
+
+Light a few scented candles and enjoy our sensuous music and sound for Angela Stempel's Urges, commissioned by Adult Swim for their Smalls series of shorts.
+
+Voice by Jetset Sound.
+
+[Angela Stempel](https://angelastempel.com/){:target="_blank"}  
+[Adult Swim](https://www.adultswim.com/){:target="_blank"}
