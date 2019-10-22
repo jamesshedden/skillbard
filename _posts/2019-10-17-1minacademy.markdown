@@ -9,7 +9,7 @@ embed: https://www.youtube.com/embed/9MG8TYICTpc
 
 ---
 
-Music for Daniela Sherer’s 1 Min Academy, for Adult Swim Shorts.
+Music for Daniela Sherer’s 1 Min Academy, for Adult Swim Smalls.
 
 [Daniela Sherer](http://danielasherer.com/){:target="_blank"}  
 [Adult Swim](https://www.adultswim.com/videos/smalls){:target="_blank"} 
