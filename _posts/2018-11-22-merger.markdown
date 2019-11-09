@@ -5,7 +5,7 @@ client: Keiichi Matsuda
 date: '2018-11-22 00:15:10 +0100'
 thumbnail: /images/thumbnails/merger.jpg
 category: [everything, sound, music, showcase]
-embed: https://www.youtube.com/embed/qyB6-tDuyTU
+embed: https://www.youtube.com/embed/SqW2dEkiD-Y
 
 ---
 
