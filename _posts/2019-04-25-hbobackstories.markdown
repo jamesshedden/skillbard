@@ -4,7 +4,7 @@ layout: post
 client: HBO
 date: '2019-04-25 00:14:10 +0100'
 thumbnail: /images/thumbnails/backstoriesgot.jpg
-category: [everything, sound, music]
+category: [everything, sound, music, showcase]
 embed: https://www.youtube.com/embed/puxjtmU7H70
 
 ---
