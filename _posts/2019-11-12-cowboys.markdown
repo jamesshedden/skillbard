@@ -1,0 +1,19 @@
+---
+title: Samsung 5G at AT&T
+layout: post
+client: Nexus Studios
+date: '2019-11-07 00:20:10 +0100'
+thumbnail: /images/thumbnails/cowboys.jpg
+category: [everything, music, sound, showcase]
+embed: https://player.vimeo.com/video/372077866
+
+---
+
+We helped Nexus Studios realise an Augmented Reality first at AT&T Stadium, home of the Dallas Cowboys. Through 5G Samsung devices, fans could look out onto the pitch to see 80ft tall holograms of the Dallas Cowboys players as well as play a half-time AR game, facing-off a giant robot. Skillbard supported 'dem boys' the best way we know: with some bustin' beats and explosive sounds that bring the game to life.
+
+[Nexus Studio](https://nexusstudios.com/work/samsung-ar/){:target="_blank"}  
+
+<br>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/y8LL61liMAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Dq_-ESeMLnE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

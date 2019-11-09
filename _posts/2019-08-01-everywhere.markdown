@@ -4,7 +4,7 @@ layout: post
 client: Spotify
 date: '2019-03-08 00:14:10 +0100'
 thumbnail: /images/thumbnails/everywhere.jpg
-category: [everything, music, showcase]
+category: [everything, music]
 embed: https://player.vimeo.com/video/352106018
 
 ---

@@ -4,7 +4,7 @@ layout: post
 client: 4Music
 date: '2017-02-15 20:51:25 +0100'
 thumbnail: /images/thumbnails/late-shift.png
-category: [music, sound, showcase, everything]
+category: [music, sound, everything]
 embed: https://player.vimeo.com/video/166443737
 ---
 

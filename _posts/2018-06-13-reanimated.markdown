@@ -4,7 +4,7 @@ layout: post
 client: Massive
 date: '2018-06-13 00:15:10 +0100'
 thumbnail: /images/thumbnails/reanimation.jpg
-category: [showcase, everything, sound, music]
+category: [everything, sound, music]
 embed: https://bandcamp.com/EmbeddedPlayer/album=1938970005/size=large/bgcol=ffffff/linkcol=000000/artwork=small/transparent=true/
 ---
 

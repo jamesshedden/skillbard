@@ -4,7 +4,7 @@ layout: post
 client: South Yare Wildlife Group
 date: '2017-04-03 16:00:00 +0100'
 thumbnail: /images/thumbnails/wildpatch.png
-category: [music, sound, showcase, everything, kids-reel]
+category: [music, sound, everything, kids-reel]
 embed: https://www.youtube.com/embed/aEjquirQkCY
 ---
 

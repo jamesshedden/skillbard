@@ -4,7 +4,7 @@ layout: post
 client: CVision
 date: '2018-11-22 00:15:10 +0100'
 thumbnail: /images/thumbnails/cvisionchristmasbumper.jpg
-category: [everything, sound, music, showcase]
+category: [everything, sound, music]
 embed: https://player.vimeo.com/video/302739929
 
 ---
