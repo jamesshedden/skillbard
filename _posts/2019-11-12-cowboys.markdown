@@ -2,7 +2,7 @@
 title: Samsung 5G at AT&T
 layout: post
 client: Nexus Studios
-date: '2019-11-12 00:20:10 +0100'
+date: '2019-11-14 00:20:10 +0100'
 thumbnail: /images/thumbnails/cowboys.jpg
 category: [everything, music, sound, showcase]
 embed: https://player.vimeo.com/video/372077866
