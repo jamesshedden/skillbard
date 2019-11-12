@@ -5,7 +5,7 @@ client: Nexus Studios
 date: '2019-11-12 00:18:02 +0100'
 thumbnail: /images/thumbnails/cowboys.jpg
 category: [everything, music, sound, showcase]
-embed: https://player.vimeo.com/video/372077866
+embed: https://player.vimeo.com/video/372077866" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
 
 ---
 
