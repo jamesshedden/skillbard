@@ -1,0 +1,22 @@
+---
+title: For Sooth
+layout: post
+client: Film4
+date: '2019-11-07 00:20:10 +0100'
+thumbnail: /images/thumbnails/forsooth.jpg
+category: [everything, music, sound]
+embed: https://player.vimeo.com/video/372077866
+
+---
+
+We created music, sound design, and a booming 5.1 surround mix for 'For sooth.'
+
+Starring David Cann (Brass Eye), ‘For Sooth’ was created by performance artist [Mel Brimfield](https://www.somersethouse.org.uk/residents/mel-brimfield/){:target="_blank"}
+and filmmaker [Ewan Jones Morris.](https://www.somersethouse.org.uk/residents/ewan-jones-morris/){:target="_blank"} for the Film4 Summer Screen at Somerset House.
+
+
+"For Sooth temporarily transforms Somerset House courtyard into an ancient ruined temple housing the vast disembodied head of an Oracle. Casting the filmgoers as attendants from the four corners of the city to hear his Word, the film features elaborate psychedelic animated sequences, combined with live action and centres on the virtuoso performance of a scripted monologue."
+
+
+
+[More Information Here](https://www.somersethouse.org.uk/whats-on/film4-summer-screen/for-sooth/){:target="_blank"}  
