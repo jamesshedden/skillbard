@@ -1,0 +1,15 @@
+---
+title: GLAS2020 Signal Film
+layout: post
+client: GLAS Festival
+date: '2020-01-22 00:20:10 +0100'
+thumbnail: /images/thumbnails/glas2020.jpg
+category: [everything, sound]
+embed: https://player.vimeo.com/video/385722813
+
+---
+
+Beautiful, mysterious nature for Lénaïg Moigne's signal film for GLAS festival 2020 in Berkley, California. Contact hello@skillbard.com to hear the 5.1 surround theatre version.
+
+[GLAS Festival](http://www.glasanimation.com){:target="_blank"}  
+[Lénaïg Moigne](https://vimeo.com/lenaiglemoigne/){:target="_blank"}  
