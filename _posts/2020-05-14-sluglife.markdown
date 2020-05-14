@@ -1,0 +1,17 @@
+---
+title: Slug Life
+layout: post
+client: BFI/BBC
+date: '2020-05-14 00:20:10 +0100'
+thumbnail: /images/thumbnails/sluglife.jpg
+category: [showcase, everything, music, sound]
+embed: https://player.vimeo.com/video/417549021
+
+---
+
+Commissioned as part of Animation 2018—a collaboration between BFI and BBC—Sophie Koko Gate's smash hit Slug Life is a sci-fi freak-out short about a woman who lab-grows her own romantic partners; giant slugs.
+
+In addition to mixing and creating the sound design and foley, we wrote the film's climax song Contagious and the screaming EBM banger Slug Life is the Only Life, while Johnny Wildey contributed the general score. We also contributed a voice or two.
+
+
+[Sophie Koko Gate](http://sophikokogate.com/){:target="_blank"}  
