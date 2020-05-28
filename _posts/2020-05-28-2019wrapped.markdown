@@ -1,0 +1,24 @@
+---
+title: 2019 Wrapped
+layout: post
+client: Spotify
+date: '2020-05-28 00:14:10 +0100'
+thumbnail: /images/thumbnails/2019wrapped.jpg
+category: [showcase, everything, music, sound]
+embed: https://player.vimeo.com/video/423560013
+
+---
+
+In December 2019, as part of their annual "Wrapped" campaign Spotify gave their users a chance to look back on the past ten years of music and culture.
+
+After having worked on the previous years campaign, we were asked once again to create music and sound design that would support hundreds of different executions worldwide.
+
+Produced by Hornet.
+
+[Spotify Wrapped](https://spotifywrapped.com){:target="_blank"}
+<br>
+[Hornet Inc](http://hornetinc.com){:target="_blank"}
+
+<br>
+
+<iframe src="https://player.vimeo.com/video/423560783?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
