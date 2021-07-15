@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skillbard</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://jamesshedden.github.io/skillbard/</link>
+    <atom:link href="http://jamesshedden.github.io/skillbard/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 15 Jul 2021 02:31:17 +0100</pubDate>
+    <lastBuildDate>Thu, 15 Jul 2021 02:31:17 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>YY London</title>
+        <description>&lt;p&gt;We were tasked with creating bespoke music and sound design for Isaac Holland’s film, introducing a new landmark building in London.&lt;/p&gt;
+
+&lt;p&gt;Directed by &lt;a href=&quot;https://www.isaacholland.com/&quot;&gt;Isaac Holland&lt;/a&gt;&lt;br /&gt;
+Produced by Clare Gibson at &lt;a href=&quot;https://madebystella.co/&quot;&gt;Made by Stella&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 18 May 2021 00:20:10 +0100</pubDate>
+        <link>http://jamesshedden.github.io/skillbard/YY/</link>
+        <guid isPermaLink="true">http://jamesshedden.github.io/skillbard/YY/</guid>
+        
+        
+        <category>everything</category>
+        
+        <category>music</category>
+        
+        <category>sound</category>
+        
+      </item>
+    
+      <item>
+        <title>Genesis Noir</title>
+        <description>&lt;blockquote cite=&quot;https://www.vice.com/amp/en/article/g5b4my/genesis-noir-brings-a-jazzy-silver-screen-vibe-to-the-story-of-creation&quot;&gt;
+“There’s a musical sequence in Genesis Noir which rivals the best in recent video game memory.”&lt;br /&gt;
+		&lt;b&gt;~Vice&lt;/b&gt;
+        &lt;/blockquote&gt;
+
+&lt;p&gt;Genesis Noir is a critically acclaimed video game for PC, Mac, Nintendo Switch, and Xbox One set before, during, and after The Big Bang. To save your love, you must stop the expansion of the universe.&lt;/p&gt;
+
+&lt;p&gt;An adventure game with an emphasis on exploration, simple interactions, and generative art, Genesis Noir is around six hours of gameplay.&lt;/p&gt;
+
+&lt;blockquote cite=&quot;https://www.washingtonpost.com/arts-entertainment/2021/04/12/genesis-noir-game-review/&quot;&gt;
+Its beautiful jazz score [is] entrancing”&lt;br /&gt;
+		&lt;b&gt;~Washington Post&lt;/b&gt;
+        &lt;/blockquote&gt;
+
+&lt;p&gt;To bring our compositions to life, we recorded a jazz quintet, a choir, a shakuhachi flute and a 30-piece string orchestra, producing several hours of reactive, interactive, generative and incidental music assets as well as creating immersive sound design, recording foley and casting voice actors. Everything you hear in the game…&lt;/p&gt;
+
+&lt;p&gt;We collaborated with the dev team to design and implement the music systems in the game, using FMOD middleware and Unreal Engine.&lt;/p&gt;
+
+&lt;p&gt;The soundtrack ‘Big Bang: Music from the Universe of Genesis Noir’ will soon be available on luxury double vinyl from &lt;a href=&quot;https://www.iam8bit.com&quot; target=&quot;_blank&quot;&gt;Iam8bit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote cite=&quot;https://metro.co.uk/2021/03/26/genesis-noir-review-hazy-cosmic-jazz-14311008/&quot;&gt;
+“The soundtrack is fantastic”&lt;br /&gt;
+		&lt;b&gt;~Metro&lt;/b&gt;
+        &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://feralcatden.com/&quot; target=&quot;_blank&quot;&gt;Feral Cat Den&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://genesisnoirgame.com/&quot; target=&quot;_blank&quot;&gt;Genesis Noir&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe style=&quot;border: 0; width: 400px; height: 836px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/album=3051553539/size=large/bgcol=333333/linkcol=ffffff/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;https://skillbard.bandcamp.com/album/big-bang-music-from-the-universe-of-genesis-noir&quot;&gt;Big Bang: Music from the Universe of Genesis Noir by Skillbard&lt;/a&gt;&lt;/iframe&gt;
+
+&lt;p class=&quot;post-container__credits&quot;&gt;
+Full Credits:
+&lt;br /&gt;Music: Tom Carrell &amp;amp; Vincent Oliver at Skillbard
+&lt;br /&gt;Sound: Vincent Oliver, Tom Carrell &amp;amp; 
+Jo Riley at Skillbard
+&lt;br /&gt;Drums &amp;amp; Percussion: Saleem Raman
+&lt;br /&gt;Tenor Sax: Josh Arcoleo
+&lt;br /&gt;Trumpet: Freddie Gavita
+&lt;br /&gt;Double Bass: Chris Hyson
+&lt;br /&gt;Shakuhachi: Clive Bell
+&lt;br /&gt;Solo vocals: Kitty Whitelaw
+&lt;br /&gt;Additional Vocalisations: Sarah Johns
+&lt;br /&gt;Piano: Angus Bayley
+&lt;br /&gt;Deep Throat Choir: Natalie Pela, 
+Sarah Parkes, Nouria Bah, Fran Lobo
+&lt;br /&gt;Voice actors: Elton E Jones, Nadia 
+Marshall, Noa Kurzweil, Oki Mikito
+&lt;br /&gt;Drum Recording: Kristian &amp;amp; Jordan at 
+Total Refreshment Centre
+&lt;br /&gt;String Arrangements: Finn McNicholas
+&lt;br /&gt;Orchestra: Budapest Art Orchestra
+&lt;br /&gt;Orchestra Session contractor/session 
+producer: Miklos Lukacs
+&lt;br /&gt;Conductor: Peter Pejtsik
+&lt;br /&gt;Budapest Recording studio: East 
+Connection Music Recording
+&lt;br /&gt;Orchestra ProTools engineer: David 
+Lukacs&lt;/p&gt;
+</description>
+        <pubDate>Thu, 25 Mar 2021 23:14:10 +0000</pubDate>
+        <link>http://jamesshedden.github.io/skillbard/genesisnoir/</link>
+        <guid isPermaLink="true">http://jamesshedden.github.io/skillbard/genesisnoir/</guid>
+        
+        
+        <category>everything</category>
+        
+        <category>music</category>
+        
+        <category>sound</category>
+        
+        <category>showcase</category>
+        
+      </item>
+    
+      <item>
+        <title>For Sooth</title>
+        <description>&lt;p&gt;We created music, sound design, and a booming 5.1 surround mix for ‘For Sooth.’&lt;/p&gt;
+
+&lt;p&gt;Starring David Cann (Brass Eye), ‘For Sooth’ was created by performance artist &lt;a href=&quot;https://www.somersethouse.org.uk/residents/mel-brimfield/&quot; target=&quot;_blank&quot;&gt;Mel Brimfield&lt;/a&gt;
+and filmmaker &lt;a href=&quot;https://www.somersethouse.org.uk/residents/ewan-jones-morris/&quot; target=&quot;_blank&quot;&gt;Ewan Jones Morris.&lt;/a&gt; for the Film4 Summer Screen at Somerset House.&lt;/p&gt;
+
+&lt;p&gt;“For Sooth temporarily transforms Somerset House courtyard into an ancient ruined temple housing the vast disembodied head of an Oracle. Casting the filmgoers as attendants from the four corners of the city to hear his Word, the film features elaborate psychedelic animated sequences, combined with live action and centres on the virtuoso performance of a scripted monologue.”&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.somersethouse.org.uk/whats-on/film4-summer-screen/for-sooth/&quot; target=&quot;_blank&quot;&gt;More Information Here&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Dec 2020 23:20:10 +0000</pubDate>
+        <link>http://jamesshedden.github.io/skillbard/forsooth/</link>
+        <guid isPermaLink="true">http://jamesshedden.github.io/skillbard/forsooth/</guid>
+        
+        
+        <category>everything</category>
+        
+        <category>music</category>
+        
+        <category>sound</category>
+        
+        <category>showcase</category>
+        
+      </item>
+    
+      <item>
+        <title>2020 Wrapped</title>
+        <description>&lt;p&gt;Spotify asked us back for the third time to score their biggest annual event, the end-of-year “Wrapped” campaign. With Wrapped, Spotify gives users a chance to look back on their own listening habits over the past year, with charts, stats and accompanying music by Skillbard.&lt;/p&gt;
+
+&lt;p&gt;Produced by Hornet.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://spotifywrapped.com&quot; target=&quot;_blank&quot;&gt;Spotify Wrapped&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://hornetinc.com&quot; target=&quot;_blank&quot;&gt;Hornet Inc&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Dec 2020 23:14:10 +0000</pubDate>
+        <link>http://jamesshedden.github.io/skillbard/2020wrapped/</link>
+        <guid isPermaLink="true">http://jamesshedden.github.io/skillbard/2020wrapped/</guid>
+        
+        
+        <category>showcase</category>
+        
+        <category>everything</category>
+        
+        <category>music</category>
+        
+      </item>
+    
+      <item>
+        <title>New Year</title>
+        <description>&lt;p&gt;Sound and music* for New Year, a 9-minute animated short set over two time periods.&lt;/p&gt;
+
+&lt;p&gt;In 1999 a boy becomes obsessed with the Y2K bug; In the distant future a girl is learning to be a priest in a religion based upon the ‘artefacts’ left behind by the boy.&lt;/p&gt;
+
+&lt;p&gt;Ravaged by millennia of climate breakdown, Britain is underwater. But Simon’s ramblings and football stickers inspire a faith where the heat of the earth is respected and 90s Man United midfielder Nicky Butt is worshiped as a God.&lt;/p&gt;
+
+&lt;p&gt;Written and directed by Diana Gradinaru &amp;amp; Rory Waudby-Tolley.
+*Hymn by Paul Devlin&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://newyearfilm.com&quot; target=&quot;_blank&quot;&gt;newyearfilm.com&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Oct 2020 00:14:10 +0100</pubDate>
+        <link>http://jamesshedden.github.io/skillbard/newyear/</link>
+        <guid isPermaLink="true">http://jamesshedden.github.io/skillbard/newyear/</guid>
+        
+        
+        <category>everything</category>
+        
+        <category>music</category>
+        
+        <category>sound</category>
+        
+      </item>
+    
+      <item>
+        <title>2019 Wrapped</title>
+        <description>&lt;p&gt;In December 2019, as part of their annual “Wrapped” campaign Spotify gave their users a chance to look back on the past ten years of music and culture.&lt;/p&gt;
+
+&lt;p&gt;Having worked on the Wrapped 2018 campaign, we were asked to come back and create music and sound design that could be used on hundreds of different marketing assets worldwide.&lt;/p&gt;
+
+&lt;p&gt;Produced by Hornet.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://spotifywrapped.com&quot; target=&quot;_blank&quot;&gt;Spotify Wrapped&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://hornetinc.com&quot; target=&quot;_blank&quot;&gt;Hornet Inc&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/423560783?byline=0&amp;amp;portrait=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Thu, 28 May 2020 00:14:10 +0100</pubDate>
+        <link>http://jamesshedden.github.io/skillbard/2019wrapped/</link>
+        <guid isPermaLink="true">http://jamesshedden.github.io/skillbard/2019wrapped/</guid>
+        
+        
+        <category>everything</category>
+        
+        <category>music</category>
+        
+      </item>
+    
+      <item>
+        <title>Slug Life</title>
+        <description>&lt;p&gt;Commissioned as part of Animation 2018—a collaboration between BFI and BBC—Sophie Koko Gate’s smash hit Slug Life is a sci-fi freak-out short about a woman who lab-grows her own romantic partners; giant slugs.&lt;/p&gt;
+
+&lt;p&gt;In addition to mixing and creating the sound design and foley, we wrote the film’s climax song Contagious (which you can hear in full &amp;amp; download below) and the screaming EBM banger Slug Life is the Only Life, while Johnny Wildey contributed the general score. We also contributed a voice or two.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sophikokogate.com/&quot; target=&quot;_blank&quot;&gt;Sophie Koko Gate&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe style=&quot;border: 0; width: 358px; height: 450px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/track=3041535155/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;http://skillbard.bandcamp.com/track/contagious-marcys-song&quot;&gt;Contagious (Marcy&amp;#39;s Song) by Skillbard&lt;/a&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Thu, 14 May 2020 00:20:10 +0100</pubDate>
+        <link>http://jamesshedden.github.io/skillbard/sluglife/</link>
+        <guid isPermaLink="true">http://jamesshedden.github.io/skillbard/sluglife/</guid>
+        
+        
+        <category>showcase</category>
+        
+        <category>everything</category>
+        
+        <category>music</category>
+        
+        <category>sound</category>
+        
+      </item>
+    
+      <item>
+        <title>Seed Supreme</title>
+        <description>&lt;p&gt;Fast-paced jungle music and other-worldy sounds for Jack Maschka’s hi-vis hyper-short Seed Supreme.&lt;/p&gt;
+
+&lt;p&gt;An adventuring staff-wielding, juvenile races for the recently landed and highly coveted space seed that gives unimaginable strength and mysterious magical powers.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://maschpit.com/&quot; target=&quot;_blank&quot;&gt;Maschpit&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Feb 2020 23:20:10 +0000</pubDate>
+        <link>http://jamesshedden.github.io/skillbard/seedsupreme/</link>
+        <guid isPermaLink="true">http://jamesshedden.github.io/skillbard/seedsupreme/</guid>
+        
+        
+        <category>showcase</category>
+        
+        <category>everything</category>
+        
+        <category>music</category>
+        
+        <category>sound</category>
+        
+      </item>
+    
+      <item>
+        <title>GLAS2020 Signal Film</title>
+        <description>&lt;p&gt;Beautiful, mysterious nature for Lénaïg Moigne’s signal film for GLAS festival 2020 in Berkley, California. Contact hello@skillbard.com to hear the 5.1 surround theatre version.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.glasanimation.com&quot; target=&quot;_blank&quot;&gt;GLAS Festival&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://vimeo.com/lenaiglemoigne/&quot; target=&quot;_blank&quot;&gt;Lénaïg Moigne&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Jan 2020 23:20:10 +0000</pubDate>
+        <link>http://jamesshedden.github.io/skillbard/glas2020/</link>
+        <guid isPermaLink="true">http://jamesshedden.github.io/skillbard/glas2020/</guid>
+        
+        
+        <category>everything</category>
+        
+        <category>sound</category>
+        
+      </item>
+    
+      <item>
+        <title>Lite Me Up</title>
+        <description>&lt;p&gt;Music &amp;amp; sound for Caitlin McCarthy’s objectophilic romance for Adult Swim’s show Off The Air.&lt;/p&gt;
+
+&lt;p&gt;Full episode &lt;a href=&quot;https://www.youtube.com/watch?v=nBSBtKZacH8&amp;amp;&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://c8l.in/&quot; target=&quot;_blank&quot;&gt;Caitlin McCarthy&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.adultswim.com/videos/off-the-air/fire&quot; target=&quot;_blank&quot;&gt;Adult Swim&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 13 Nov 2019 23:20:10 +0000</pubDate>
+        <link>http://jamesshedden.github.io/skillbard/litemeup/</link>
+        <guid isPermaLink="true">http://jamesshedden.github.io/skillbard/litemeup/</guid>
+        
+        
+        <category>everything</category>
+        
+        <category>music</category>
+        
+        <category>sound</category>
+        
+      </item>
+    
+  </channel>
+</rss>
