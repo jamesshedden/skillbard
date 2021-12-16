@@ -4,7 +4,7 @@ layout: post
 client: Spotify
 date: '2020-12-02 00:14:10 +0100'
 thumbnail: /images/thumbnails/2020wrapped.jpg
-category: [showcase, everything, music]
+category: []
 embed: https://player.vimeo.com/video/486437891
 
 ---

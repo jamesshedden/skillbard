@@ -4,7 +4,7 @@ layout: post
 client: Spotify
 date: '2020-05-28 00:14:10 +0100'
 thumbnail: /images/thumbnails/2019wrapped.jpg
-category: [everything, music]
+category: []
 embed: https://player.vimeo.com/video/423560013
 
 ---
