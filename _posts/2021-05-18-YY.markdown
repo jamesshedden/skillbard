@@ -1,0 +1,16 @@
+---
+title: YY London
+layout: post
+client: Made By Stella
+date: '2021-05-18 00:20:10 +0100'
+thumbnail: /images/thumbnails/yy.jpg
+category: [everything, music, sound]
+embed: https://player.vimeo.com/video/475912543
+
+---
+
+We were tasked with creating bespoke music and sound design for Isaac Holland’s film, introducing a new landmark building in London.
+
+Directed by [Isaac Holland](https://www.isaacholland.com/)<br>
+Produced by Clare Gibson at [Made by Stella](https://madebystella.co/)
+

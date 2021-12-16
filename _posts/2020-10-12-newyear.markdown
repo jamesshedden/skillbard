@@ -1,0 +1,22 @@
+---
+title: New Year
+layout: post
+client: BFI Network
+date: '2020-10-12 00:14:10 +0100'
+thumbnail: /images/thumbnails/newyear.png
+category: [everything, music, sound]
+embed: https://player.vimeo.com/video/467127544
+
+---
+
+Sound and music* for New Year, a 9-minute animated short set over two time periods. 
+
+In 1999 a boy becomes obsessed with the Y2K bug; In the distant future a girl is learning to be a priest in a religion based upon the ‘artefacts’ left behind by the boy.
+
+Ravaged by millennia of climate breakdown, Britain is underwater. But Simon's ramblings and football stickers inspire a faith where the heat of the earth is respected and 90s Man United midfielder Nicky Butt is worshiped as a God.
+
+Written and directed by Diana Gradinaru & Rory Waudby-Tolley.
+*Hymn by Paul Devlin
+
+[newyearfilm.com](https://newyearfilm.com){:target="_blank"}
+<br>
