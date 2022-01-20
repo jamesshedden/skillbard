@@ -4,7 +4,7 @@ layout: post
 client: UK Sport
 date: '2016-10-11 20:51:25 +0100'
 thumbnail: /images/thumbnails/UKS.jpg
-category: [sound, everything]
+category: []
 embed: https://player.vimeo.com/video/99715908
 ---
 
