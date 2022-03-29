@@ -9,6 +9,8 @@ embed: https://www.youtube.com/embed/3ekGW_EU_6Y
 
 ---
 
+<img width="800" src="/images/postimages/gnlaurels.png">
+
 <blockquote cite="https://www.vice.com/amp/en/article/g5b4my/genesis-noir-brings-a-jazzy-silver-screen-vibe-to-the-story-of-creation">
 “There’s a musical sequence in Genesis Noir which rivals the best in recent video game memory.”<br>
 		<b>~Vice</b>
