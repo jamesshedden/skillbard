@@ -13,5 +13,3 @@ Music and sound for this explainer vid by Lara Lee for custom furniture distribu
 
 [Lara Lee](http://laralee.kr)  
 [Inyard](http://inyard.com/)
-
-<div id="bc"><iframe style="border: 0; width: 400px; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/track=2278335531/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" seamless><a href="http://skillbard.bandcamp.com/track/fan-dance">Fan Dance by Skillbard</a></iframe></div>

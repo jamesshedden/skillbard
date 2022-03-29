@@ -16,7 +16,7 @@ I Hope This Finds You Well is an audio piece by Bedwyr Williams as part of his s
 [The Barbican](http://www.barbican.org.uk/)
 
 
-<div id="bc"><iframe style="border: 0; width: 400px; height: 803px;" src="https://bandcamp.com/EmbeddedPlayer/album=2220894585/size=large/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://skillbard.bandcamp.com/album/i-hope-this-finds-you-well-ost">I Hope This Finds You Well OST by Skillbard</a></iframe></div>
+<iframe width="100%" height="480" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1417077421&color=%23a19489&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skillbard" title="Skillbard" target="_blank" style="color: #cccccc; text-decoration: none;">Skillbard</a> · <a href="https://soundcloud.com/skillbard/sets/i-hope-this-finds-you-well-ost-binaural" title="I Hope This Finds You Well OST (Binaural)" target="_blank" style="color: #cccccc; text-decoration: none;">I Hope This Finds You Well OST (Binaural)</a></div>
 
 <br>
 <img src="/images/postimages/labtobz.jpg" width="100%">

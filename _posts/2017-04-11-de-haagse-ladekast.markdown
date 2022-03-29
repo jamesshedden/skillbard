@@ -13,5 +13,3 @@ We were asked by Motoko to create music and sound for a series of 16 animations 
 You can watch the whole series [here](http://www.motoko.tv/en/production/animation/cultuuronderwijs-op-zijn-haags/)
 
 Created by [Motoko](http://http://www.motoko.tv/)
-
-<iframe id="bc" style="border: 0; width: 400px; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/album=796378032/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://skillbard.bandcamp.com/album/de-haagse-ladekast">De Haagse Ladekast by Skillbard</a></iframe>

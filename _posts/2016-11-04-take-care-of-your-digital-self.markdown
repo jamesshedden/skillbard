@@ -4,7 +4,7 @@ layout: post
 client: Digital Wildfire Project
 date: '2016-11-04 20:51:25 +0100'
 thumbnail: /images/thumbnails/digital-wildfire.png
-category: [sound, everything]
+category: []
 embed: https://www.youtube.com/embed/5nXaEctiVhs
 ---
 

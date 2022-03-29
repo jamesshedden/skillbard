@@ -10,5 +10,3 @@ embed: https://www.youtube.com/embed/gFkc1XHyjKA
 Music for Nervous Squirrel's kinetic sculpture of undulating rubber ducks, commissioned by motor manufacturer Faz Elektrik.
 
 More info [here](http://www.nervoussquirrel.com/duckmachine.html "Duck Machine").
-
-<div id="bc"></div>
