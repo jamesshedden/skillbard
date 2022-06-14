@@ -12,8 +12,8 @@ embed: https://player.vimeo.com/video/643858795?h=6b8174ec81
 Revolting sound design & a Carlosian synthy rearrangement of Beethoven's 9th for Cheng-Hsu Chung's Mukbang. Inspired by the online phenomenon of Korean eating videos, Mukbang presents the visualisation and mental reflection of the binging culture through an eventful dinner experience.
 
 
-Directed by [Cheng-Hsu Chung](https://www.chenghsuchung.com/mukbang)<br>
+Directed by [Cheng-Hsu Chung](https://www.chenghsuchung.com/mukbang){:target="_blank"}<br>
 [Off The Air](https://meowwolf.com/) created by Dave Hughes for
-[Adult Swim](https://www.adultswim.com/)<br>
-Guest Curated by [Sophie Koko](https://sophiekokogate.com/)<br>
-Produced by [Temple Carrington & Brown](https://www.templecarringtonbrown.com/)<br>
+[Adult Swim](https://www.adultswim.com/){:target="_blank"}<br>
+Guest Curated by [Sophie Koko](https://sophiekokogate.com/){:target="_blank"}<br>
+Produced by [Temple Carrington & Brown](https://www.templecarringtonbrown.com/){:target="_blank"}<br>
