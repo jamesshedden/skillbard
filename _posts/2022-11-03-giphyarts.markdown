@@ -2,7 +2,7 @@
 title: GIPHY Arts Ident
 layout: post
 client: GIPHY
-date: '2022-06-14 00:20:10 +0100'
+date: '2022-11-03 00:20:10 +0100'
 thumbnail: /images/thumbnails/giphyarts.jpg
 category: [everything, music, sound]
 embed: https://giphy.com/embed/DSO56KVIYk6QMhWtSM/video
