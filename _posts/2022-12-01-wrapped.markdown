@@ -2,10 +2,10 @@
 title: Wrapped
 layout: post
 client: Spotify
-date: '2021-12-02 00:14:10 +0100'
-thumbnail: /images/thumbnails/wrapped.jpg
+date: '2022-12-01 00:14:10 +0100'
+thumbnail: /images/thumbnails/wrapped22.jpg
 category: [showcase, everything, music]
-embed: https://player.vimeo.com/video/653096223
+embed: https://player.vimeo.com/video/776908938?h=d31d56db67&title=0&byline=0&portrait=0"
 
 ---
 
@@ -13,9 +13,11 @@ Each year Spotify invites us to score their biggest annual global event, the end
 
 Produced by Hornet.
 
-[Spotify Wrapped](https://spotifywrapped.com){:target="_blank"}
+[Spotify](https://spotify.com){:target="_blank"}
 <br>
 [Hornet Inc](http://hornetinc.com){:target="_blank"}
+
+<iframe src="https://player.vimeo.com/video/653096223?byline=0&portrait=0" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <iframe src="https://player.vimeo.com/video/486437891?byline=0&portrait=0" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
