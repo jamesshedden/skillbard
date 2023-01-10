@@ -1,0 +1,14 @@
+---
+title: Ey3k0n Anthology
+layout: post
+client: Ey3k0n
+date: '2023-01-10 00:20:10 +0100'
+thumbnail: /images/thumbnails/ey3k0n.jpg
+category: [everything, music, sound, showcase]
+embed: http://www.youtube.com/embed/1oxFP-pJpiY
+
+---
+
+Music and sound for the official trailer of EY3K0N ANTHOLOGY, a series of comic book stories that will explore what society might look like in the near future, where the mantle of power rests on the shoulders of ten hyper-influencers.
+
+Directed by Greg Sharp at [Truba Animation](http://trubaanimation.com/){:target="_blank"}<br>
