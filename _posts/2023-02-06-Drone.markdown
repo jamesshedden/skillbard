@@ -1,0 +1,24 @@
+---
+title: Drone
+layout: post
+client: Sean Buckelew
+date: '2023-01-10 00:20:10 +0100'
+thumbnail: /images/thumbnails/drone.jpg
+category: [everything, music, sound, showcase]
+embed: http://www.youtube.com/embed/RubSLGTrdOA
+
+---
+
+Music and sound for Drone, a satirical comedy from regular collaborator Sean Buckelew.
+
+In an attempt to rebrand its drone program, the US military installs a Predator drone with an onboard AI named Newton to serve as an ethical, compassionate voice and moral ambassador to defend and justify the use of lethal force. At the press rollout, a malfunction causes the drone to go rogue. The livestream of the event is an instant viral sensation, and the world watches as the runaway drone attempts to understand its purpose in the world. On the ground, the military and PR personnel scramble to figure out how to salvage the situation and capitalize on the sudden rush of attention.
+
+Read a very in-depth behind-the-scenes article by Sean, featuring a section by Skillbard [here](https://seanbuckelew.substack.com/p/drone-making-of-an-animated-short).
+
+Written and Directed by [Sean Buckelew](https://www.seanbuckelew.com/){:target="_blank"}<br>
+Produced by [Jeanette Jeanenne](https://jeanettejeanenne.com/){:target="_blank"} at [B&B Pictures](https://b-b.pictures/){:target="_blank"}<br>
+Orchestration: [Finn McNicholas](https://cargocollective.com/finnmcnicholas){:target="_blank"}<br>
+Orchestra: [Budapest Art Orchestra](https://budapestartorchestra.com/){:target="_blank"}<br>
+Conductor: [Peter Pejtsik](https://pejtsik.com/){:target="_blank"}<br><br>
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1565998234%3Fsecret_token%3Ds-g0myqr8hEpG&color=%238f8fb5&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
