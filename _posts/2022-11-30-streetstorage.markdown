@@ -5,7 +5,7 @@ client: Street Storage
 date: '2022-11-30 00:20:10 +0100'
 thumbnail: /images/thumbnails/streetstorage.jpg
 category: [everything, music, sound]
-embed: http://www.youtube.com/embed/SmCDRAPG7Fs
+embed: https://www.youtube.com/embed/SmCDRAPG7Fs
 
 ---
 

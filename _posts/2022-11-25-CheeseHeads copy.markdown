@@ -5,7 +5,7 @@ client: Frigo
 date: '2022-11-25 00:20:10 +0100'
 thumbnail: /images/thumbnails/cheeseheads.jpg
 category: [everything, music, sound]
-embed: http://www.youtube.com/embed/exc1uQ2hQXw
+embed: https://www.youtube.com/embed/exc1uQ2hQXw
 
 ---
 

@@ -10,6 +10,6 @@ embed: https://player.vimeo.com/video/168764178
 
 Sound design for TV show idents for France 4′s weekly animation show Réanimation.
 
-[Souviens Ten-Zan](www.souvienstenzan.com)  
-[Kawa Animation](http://www.kawanimation.fr/)  
-[France 4](http://www.france4.fr/)
+[Souviens Ten-Zan](https://www.souvienstenzan.com)  
+[Kawa Animation](https://www.kawanimation.fr/)  
+[France 4](https://www.france4.fr/)

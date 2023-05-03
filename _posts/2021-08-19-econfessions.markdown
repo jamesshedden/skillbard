@@ -4,8 +4,8 @@ layout: post
 client: Ocean Bottle
 date: '2021-05-18 00:20:10 +0100'
 thumbnail: /images/thumbnails/econfessions.jpg
-category: [everything, music, sound]
-embed: http://www.youtube.com/embed/9nlY3IMPLy0
+category: [everything, music, sound, showcase]
+embed: https://www.youtube.com/embed/9nlY3IMPLy0
 
 ---
 
