@@ -4,7 +4,7 @@ layout: post
 client: Truba Animation
 date: '2019-09-27 00:14:10 +0100'
 thumbnail: /images/thumbnails/yurysjourney.jpg
-category: [everything, music]
+category: [everything, music, lemonreel]
 embed: https://player.vimeo.com/video/224889635
 
 ---

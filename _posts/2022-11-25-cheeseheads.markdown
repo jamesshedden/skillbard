@@ -4,7 +4,7 @@ layout: post
 client: Frigo
 date: '2022-11-25 00:20:10 +0100'
 thumbnail: /images/thumbnails/cheeseheads.jpg
-category: [everything, music, sound]
+category: [everything, music, sound, lemonreel]
 embed: https://www.youtube.com/embed/exc1uQ2hQXw
 
 ---

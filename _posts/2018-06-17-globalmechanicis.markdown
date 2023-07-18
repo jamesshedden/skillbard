@@ -4,7 +4,7 @@ layout: post
 client: Global Mechanic
 date: '2018-06-17 00:15:10 +0100'
 thumbnail: /images/thumbnails/gmis.jpg
-category: [everything, sound, music]
+category: [everything, sound, music, lemonreel]
 embed: https://player.vimeo.com/video/274144296
 ---
 

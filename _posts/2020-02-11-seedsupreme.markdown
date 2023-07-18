@@ -4,7 +4,7 @@ layout: post
 client: Maschpit
 date: '2020-02-11 00:20:10 +0100'
 thumbnail: /images/thumbnails/seedsupreme.jpg
-category: [showcase, everything, music, sound]
+category: [showcase, everything, music, sound, lemonreel]
 embed: https://player.vimeo.com/video/390729373
 
 ---
