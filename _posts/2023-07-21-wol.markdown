@@ -1,0 +1,23 @@
+---
+title: Wol
+layout: post
+client: Niantic
+date: '2023-01-10 00:20:10 +0100'
+thumbnail: /images/thumbnails/wol.jpg
+category: [everything, music, sound, showcase]
+embed: https://player.vimeo.com/video/847336682
+
+---
+
+A loveable guide to the redwood forest, Wol is a mixed reality AI-enabled experience for Meta VR headsets and mobile devices.
+
+Wol joins you in your space through an AR portal which opens a door to the redwood forest. As an AI-enabled owl, Wol is ready to have a natural conversation with you about the plants on the forest floor, the lifecycle of a tree or really anything you'd like to discuss…
+
+We created music cues, immersive forest sounds and character foley to bring Wol and the experience to life.
+
+Read more [here](https://nianticlabs.com/news/meetwol?hl=en){:target="_blank"} and meet Wol [here](https://meetwol.com/){:target="_blank"}<br>
+Created by [Liquid City](https://liquid.city/){:target="_blank"} for [Niantic](https://nianticlabs.com/?hl=en){:target="_blank"}<br>
+
+<br>
+
+<img src="https://cdn.8thwall.com/images/apps/featured/4tv3rwqjznsrarjp4akficjwjj5b98m11mm96o7n48plydvdbrmck377-540x960" alt="wol5" width="300"/>

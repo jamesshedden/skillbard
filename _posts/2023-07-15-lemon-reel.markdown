@@ -8,6 +8,8 @@ category: [lemonreel]
 embed: https://player.vimeo.com/video/846243328
 ---
 
+> Password = "lemon"
+
 We grabbed a few projects that seemed relevant in some way. Hope you enjoy them!
 
 If you're interested in viewing the full projects  among others, We've set up [this](/lemonreel) little collection for you.
