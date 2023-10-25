@@ -4,7 +4,7 @@ layout: post
 client: Adult Swim
 date: '2022-01-18 00:20:10 +0100'
 thumbnail: /images/thumbnails/mukbang.jpg
-category: [everything, music, sound, showcase]
+category: [everything, music, sound]
 embed: https://player.vimeo.com/video/701146103
 
 ---

@@ -4,7 +4,7 @@ layout: post
 client: Nexus Design Studio
 date: '2023-09-27 00:20:10 +0100'
 thumbnail: /images/thumbnails/ueshimacoffee.jpg
-category: [everything, music, sound]
+category: [everything, music, sound, showcase]
 embed: https://www.youtube.com/embed/eN1ChIqBe20
 
 ---

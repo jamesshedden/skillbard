@@ -1,0 +1,18 @@
+---
+title: Spotify Daylist
+layout: post
+client: Spotify
+date: '2023-10-25 00:20:10 +0100'
+thumbnail: /images/thumbnails/daylist.jpg
+category: [everything, music, sound, showcase]
+embed: https://player.vimeo.com/video/864899575
+
+---
+
+Spotify presented us with a unique challenge: to encapsulate the essence of two fictional, non-traditional and, frankly, juxtapositional music genres, "electro cowboy" and "aggressive vampire," and in only a few seconds! We embraced the opportunity to add a touch of eccentricity and get a little weird.
+
+Client: [Spotify](https://spotify.com/){:target="_blank"}<br>
+[Hornet Inc](http://hornetinc.com){:target="_blank"}<br>
+Creative Director: Itay Tevel<br>
+Client Producer: Kenzie Tankersley<br>
+Executive Producer Cathy Kwan<br>
