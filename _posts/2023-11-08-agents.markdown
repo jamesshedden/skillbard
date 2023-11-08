@@ -1,0 +1,22 @@
+---
+title: Agents
+layout: post
+client: Niantic
+date: '2023-11-08 00:20:10 +0100'
+thumbnail: /images/thumbnails/agents.jpg
+category: [everything, music, sound]
+embed: https://www.youtube.com/embed/bkKv2AHpn8E
+
+---
+
+Sound design for an exploration of embodied conversational UI. A short film about our possible future living with AI and XR, made in collaboration with Nianticlabs
+						
+How might virtual agents inhabit the city? From personal assistants, to ‘spirits’ that haunt IoT objects and physical locations, giving new supernatural powers. A fresh, intuitive mental model for AI and XR. 
+					
+
+Directed by [Keichi Matsuda](http://km.cx/){:target="_blank"}<br>
+At [Liquid City](https://liquid.city){:target="_blank"}<br>
+For [Niantic Labs](https://nianticlabs.com/?hl=en){:target="_blank"}<br>
+Written by Anna Mill & Yimika Owoaje  
+Exec Produced by Waiming Wee  
+Produced by Emilie Dubois & Peter Fraser  
