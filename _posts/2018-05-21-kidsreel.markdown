@@ -1,18 +1,16 @@
 ---
-title: Kids' Music
+title: Password; kids
 layout: post
-client: Showreel
+client: Kid's Music Reel
 date: '2018-05-21 00:22:30 +0100'
 thumbnail: /images/thumbnails/kidsreel.jpg
 category: [kids-reel]
-embed: https://player.vimeo.com/video/271178228
+embed: https://player.vimeo.com/video/889823943§
 ---
 
-A little taste of some of the kid-friendly projects we've worked on. We created 100% of the sound and the music that you hear in each clip and loved every minute of it.
+A little taste of some of the kid-friendly projects we've worked on. We created all the sound and music here and loved every minute of it.
 
-We should have sent you a password in an email but if we forgot or there's a problem, please [get in touch](mailto:hello@skillbard.com).
-
-If you're interested in viewing/reading about the full projects, We've set up [this](/kids-reel) little collection for you.
+If you're interested in viewing the full projects, We've set up [this](/kids-reel) little collection for you.
 
 Enjoy!
 
