@@ -1,12 +1,14 @@
 ---
-title: Password; kids
+title: Kid's Reel
 layout: post
-client: Kid's Music Reel
+client: Little Showreel
 date: '2018-05-21 00:22:30 +0100'
 thumbnail: /images/thumbnails/kidsreel.jpg
 category: [kids-reel]
-embed: https://player.vimeo.com/video/889823943§
+embed: https://player.vimeo.com/video/889823943
 ---
+
+Password: kids
 
 A little taste of some of the kid-friendly projects we've worked on. We created all the sound and music here and loved every minute of it.
 
