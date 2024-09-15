@@ -15,7 +15,7 @@
         id="post-logo"
         class="logo logo--post logo--fixed">
           <img class="logo__image"
-          src="/images/logo.png">
+          src="{{ site.images_url }}/logo.png">
         </a>
       {% endif %}
 
@@ -26,7 +26,7 @@
             <div class="main__details{% if page.title and page.layout != 'category' %} main__details--page{% endif %}">
               <a href="/"  class="logo">
                 <img class="logo__image"
-                src="/images/logo.png">
+                src="{{ site.images_url }}/logo.png">
               </a>
 
               <p class="main__text">
@@ -37,23 +37,23 @@
 
               <div class="client-logos">
                 <img class="client-logos__image client-logos__image--portrait"
-                src="/images/client-logos.png">
+                src="{{ site.images_url }}/client-logos.png">
 
                 <img class="client-logos__image client-logos__image--landscape"
-                src="/images/client-logos-landscape.png">
+                src="{{ site.images_url }}/client-logos-landscape.png">
               </div>
               <div class="main__socials">
                 <a class="main__social-icon-link" href="http://instagram.com/skillbard" target="_blank">
-                  <img class="main__social-icon" src="/images/socials/ig.jpg">
+                  <img class="main__social-icon" src="{{ site.images_url }}/socials/ig.jpg">
                 </a>
                 <a class="main__social-icon-link" href="http://skillbard.bandcamp.com" target="_blank">
-                  <img class="main__social-icon" src="/images/socials/bc.jpg">
+                  <img class="main__social-icon" src="{{ site.images_url }}/socials/bc.jpg">
                 </a>
                 <a class="main__social-icon-link" href="http://facebook.com/skillbard" target="_blank">
-                  <img class="main__social-icon" src="/images/socials/fb.jpg">
+                  <img class="main__social-icon" src="{{ site.images_url }}/socials/fb.jpg">
                 </a>
                 <a class="main__social-icon-link" href="http://twitter.com/skillbard" target="_blank">
-                  <img class="main__social-icon" src="/images/socials/tw.jpg">
+                  <img class="main__social-icon" src="{{ site.images_url }}/socials/tw.jpg">
                 </a>
               </div>
             </div>
@@ -69,7 +69,7 @@
               <div class="main__details{% if page.title and page.layout != 'category' %} main__details--page{% endif %}">
                 <a href="/" class="logo">
                   <img class="logo__image"
-                  src="/images/logo.png">
+                  src="{{ site.images_url }}/logo.png">
                 </a>
 
                 <p class="main__text">
@@ -80,24 +80,24 @@
 
                 <div class="client-logos">
                   <img class="client-logos__image client-logos__image--portrait"
-                  src="/images/client-logos.png">
+                  src="{{ site.images_url }}/client-logos.png">
 
                   <img class="client-logos__image client-logos__image--landscape"
-                  src="/images/client-logos-landscape.png">
+                  src="{{ site.images_url }}/client-logos-landscape.png">
                 </div>
 
                 <div class="main__socials">
                   <a class="main__social-icon-link" href="http://instagram.com/skillbard" target="_blank">
-                    <img class="main__social-icon" src="/images/socials/ig.jpg">
+                    <img class="main__social-icon" src="{{ site.images_url }}/socials/ig.jpg">
                   </a>
                   <a class="main__social-icon-link" href="http://skillbard.bandcamp.com" target="_blank">
-                    <img class="main__social-icon" src="/images/socials/bc.jpg">
+                    <img class="main__social-icon" src="{{ site.images_url }}/socials/bc.jpg">
                   </a>
                   <a class="main__social-icon-link" href="http://facebook.com/skillbard" target="_blank">
-                    <img class="main__social-icon" src="/images/socials/fb.jpg">
+                    <img class="main__social-icon" src="{{ site.images_url }}/socials/fb.jpg">
                   </a>
                   <a class="main__social-icon-link" href="http://twitter.com/skillbard" target="_blank">
-                    <img class="main__social-icon" src="/images/socials/tw.jpg">
+                    <img class="main__social-icon" src="{{ site.images_url }}/socials/tw.jpg">
                   </a>
                 </div>
               </div>
@@ -111,7 +111,7 @@
                 <a href="{{ paginator.previous_page_path }}"
                 class="tile">
                   <div class="tile__wrapper">
-                    <img src="/images/placeholder.gif">
+                    <img src="{{ site.images_url }}/placeholder.gif">
                     <div class="tile__overlay tile__overlay--category tile__overlay--pagination-link">
                       <div class="tile__overlay-text">
                         &larr; Previous page<br>
@@ -145,7 +145,7 @@
           id="content">
             <a href="/" class="logo logo--post logo--static">
               <img class="logo__image"
-              src="/images/logo.png">
+              src="{{ site.images_url }}/logo.png">
             </a>
 
             {{ content }}
@@ -218,7 +218,7 @@
     </div>
 
     {% if site.safe == 'true' %}
-      <script src="/assets/main.js"></script>
+      <script src="{{ site.url }}/assets/main.js"></script>
     {% else %}
       {% javascript main %}
     {% endif %}

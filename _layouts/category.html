@@ -5,7 +5,7 @@ layout: default
 {% if site.sidebar_categories contains page.category %}
   <div class="tile">
     <div class="tile__wrapper">
-      <img src="/images/placeholder.gif">
+      <img src="{{ site.images_url }}/placeholder.gif">
       <div class="tile__overlay tile__overlay--category">
         <div class="tile__overlay-text">
           {{ page.category | capitalize }}<br>
